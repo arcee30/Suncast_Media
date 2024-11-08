@@ -1,0 +1,700 @@
+Nico Johnson  0:00  
+If you've ever been on a solar site of a predominantly large scale solar site, but really resi all the way through, then you may have noticed a silent secret killer to profitability across the industry, something that also has been increasingly creating an an unreasonable amount of waste. And that is the lowly humble Bottom of the Pile the palette. In fact, the thing that the solar panels sit on that delivers them to site why we haven't tried to address this issue, not just in the solar industry, but in construction across the board. I haven't even thought to ask myself, but today's guest has, and he's going to unpack for us the entrepreneurial journey of trying to reinvent, revolutionize and innovate around this seemingly simple technology so that we can deliver on the promise of our industry of cleaning up the earth, not deploying millions of wooden panels rotted in many ways, back into the landfills. I have been thrilled to kind of unpack and understand this story. And today, it is my honor to bring Phillip Schwartz to the show the co founder and CEO of PV pallet, the name is perfect. It's great marketing, it tells you exactly what the business is trying to accomplish, to revolutionize this whole concept of why the PV pallet is currently not serving our industry, the way that it should, if you dig these kinds of entrepreneurial stories, folks on the frontlines of the Clean Energy Transition, trying to unearth and redesign the way that we create energy, the way that we deployed around the world, you're in the right place. If you're new to SunCast, I just want to say thank you, from the bottom of my heart for giving us your ears, your attention, and the only thing you won't get back. And that's your time, I promise you're investing it well. Phillip Schwartz has spent more than 15 years in the industry. He's got a deep mechanical and engineering background. And when he was approached with this unique entrepreneurial problem, thankfully, he had already primed the pump thought about what entrepreneurship should look like. And he decided to tackle this problem, we'll find out why and where he has taken it, and how you can learn from his entrepreneurial journey in today's SunCast. And if you love these kinds of deep dive conversations, you're in the right place more than 700 episodes with leaders just like Philip, prove that we are digging into the mind, the mindset, the way that businesses are built on the frontlines of the clean energy transition so that you can apply it to your business and your career. Get ready to tune up your skill solar warrior, as we tune into another powerful conversation here on SunCast. Philip, we talk about a breadth of topics here on SunCast. That covers everything from designing and building solar panels and batteries to, you know, to how to set up a 90 day onboarding plan for new employees. This is the first time I've really gotten to the very foundational level of the industry, something that ever the whole industry sits on literally the pallet, I love the topic, we're going to dig into how, where, when and why this idea came to you. But when you are being introduced to someone who has virtually no idea kind of how the solar industry works, let alone the niche of a niche that is the logistics side of it. How do you talk about the macro problem that you're trying to solve?
+
+Speaker 1  3:15  
+Yeah, well, first and foremost, thanks for having me. By the way, it's an honor to be on the podcast. But to answer your question, honestly, I tell people, I'm a pallet guy, which I never thought I'd say, you know, given my background and solar and engineering and things not making plastic boxes. But you know, I talked about the the waste problem in the solar industry and how it's kind of this hidden, you know, hidden but monumental problem in the industry, and how the status quo in our industry is wooden pallets that what's unique in solar is that they're generally used once and then throw it in a landfill that is unique. And I explained, you know, you go to a Costco or grocery store, and sometimes you see pallets getting reused. Well, that doesn't happen in our industry. So we're literally throwing millions of pallets into landfills every single year. And that problem is like growing with the industry. And I also talked about the solar panel breakage and how when you buy a flat screen TV, if it showed up in your doorstep wrapped in a piece of cardboard and shrink wrap. And that's it, you'd probably send it back. Right? Yeah, probably expected to be broken. Well, that's I mean, we're shipping giant sheets of glass wrapped in cardboard. Yeah. So the breakage problem in the industry that's associated with packaging is massive too. And once I started talking about that, it starts to click with people what I do,
+
+Nico Johnson  4:26  
+what are some numbers around the statistics of breakage of panels that might astound folks that are unfamiliar?
+
+Speaker 1  4:33  
+I mean, well, from the cost standpoint, it's costing our industry billions of dollars every year. So what we always talk about is the fact that essentially and what some of this is anecdotal and some of it's actually from real world, you know, data collection, but generally speaking every touchpoint in the supply chain, you see one to 2% breakage of solar panels, okay. So, from
+
+Nico Johnson  4:54  
+manufacturing to logistics, logistics to site site to building exactly
+
+Speaker 1  4:58  
+so you On a utility scale job site, you might see somewhere in the range of zero to 2%. Three would be a really bad site, you go to a commercial job site worth, maybe it's gone through a distribution channel, and you start to see in three to 5% 10% range in resi, where they've actually oftentimes been repackaged and palletized. And smaller loads, you can see upwards of 7%, breakage or more. And it's not just the cost of the breakage. Yeah, then you have guys on site that are sitting around idle, waiting for new panels to show up, you've got the cost of replacement, you've got the cost of disposal. So all these costs add up immensely. So we've actually had a case study done with one customer, you know, say the cost of a new solar panels 200 bucks, they actually calculated that to them, a one broken solar panel costs all in around $800. To replace, when you account for all those hidden costs.
+
+Nico Johnson  5:49  
+We're talking 200 300,000 solar panels just in the resi sector, like we're not talking about utility scale, we're talking into the hundreds of 1000s, just in the residential sector, Allah of product that is broken due to poor logistics, by and large, because of the way that we palletize this product. Exactly.
+
+Speaker 1  6:05  
+Holy smokes. Yeah, it's wild. It adds up very quick. And then I mean, the US numbers are one and then you look at the Golden numbers, and it's a it's literally a multibillion dollar problem every single year. Why
+
+Nico Johnson  6:17  
+do you suppose no one has tried to fix this? I get
+
+Speaker 1  6:22  
+that asked that question a lot. And I think a lot of it just comes down to where a young industry? Yeah, everybody's very focused on the innovation on the power side of the industry. Yeah. And they just accepted the packaging as a status quo, right? There's never been a better option. So it's just I
+
+Nico Johnson  6:37  
+mean, but aren't wooden pallets used in other parts of construction? Or is it just not consequential? Well,
+
+Speaker 1  6:41  
+the difference in the solar industry, I mean, you think about like a conventional power plant, right? There's a lot of very big unique equipment that goes into like a natural gas mine, the solar, solar plants, very commoditized, very high volume, the same product, and over and over. So what may be a relatively smaller problem in terms of construction, waste, and other other types of power projects. Yeah, it's a massive problem on solar projects. I'm
+
+Nico Johnson  7:03  
+thinking outside of solar and power in general, but pallets like pallets are in our industry, they're a problem. Are they not also a problem in other industries?
+
+Speaker 1  7:13  
+Of course they are. I mean, construction waste is a massive I mean, right. It's one of the biggest waste streams in the country. Okay. Our mission as a company was to start focused on solar, because it's essentially a one another marking up your neighborhood. Yeah, and clean up what we do. And yeah, we know best about
+
+Nico Johnson  7:27  
+that. So introduce us, then we've already sort of done it, but introduce us to into PV pallet and how the business that you're building is going to solve the problem that we've just enunciated. Yep. So
+
+Speaker 1  7:37  
+we are the industry's first and only reusable packaging company that is making a turnkey solution for our customers. So we came to market with the PD pilot series X, which if you go to our website, you see that it was the first reusable package that was custom built for shipping solar panels. Yeah, dimensionally perfect fit. And we baked in a couple other features that make it not just a good fit to get from point A to point B but also adds efficiencies on the labor side and the warehouse storage side features like what? Well, we can stack our pallets for high for example. And that's not possible with wooden pallets. It's not possible as a bold statement, but it's not recommended. Most module manufacturers they say you shouldn't stack more than too high. Okay, now sometimes you're gonna warehouse and see people are not following those recommendations. But with our pallets, they have sidewalls so when you stack there's no weight on the modules themselves.
+
+Nico Johnson  8:27  
+So it's a 40 Hi cube is that only two pallets high? On a on a 40 foot? It's still anti peloton. Okay, yeah, and
+
+Speaker 1  8:35  
+a 53 foot drive van is the same as two pallets high, but you go to a warehouse, so we don't improve on the truck height stack, right. But in a warehouse, we can cut your warehouse space in half, because now you can stack twice as high.
+
+Nico Johnson  8:46  
+That makes a big difference. Not so much for the three peels in the CDs. But for the independent installers that warehouse space is a premium. Exactly.
+
+Speaker 1  8:54  
+Yeah, yeah, warehouse space is not cheap. So anyway, you can make that more efficient, more organized and yeah, houses
+
+Nico Johnson  9:02  
+I don't know why that in my mind. I'm seeing like I remember the last time I went into good faith energy down in Austin Mo has a fun like they just the bid went into a new building and they have stacks and stacks like every module manufacturing think of really that are like considered a top tier, they have some number of pallets of it, and they're, you know, they're stacked up there and I'm thinking about how big a footprint that takes in their warehouse and it's only because they do it right it's only too high and it's a really large area that is occupied that they could dedicate to something else and not the least of which you know they're expanding team
+
+Speaker 1  9:36  
+while I'm talking I mean on that point when you've got multiple manufacturers multiple models yeah of panels. You're often you end up with partial pallet loads sitting in your warehouse and how do you organize that ours have the pallets have a load management system so you can keep them out modules upright keep it all very organized and warehouse friendly on that front. I
+
+Nico Johnson  9:56  
+know this is gonna go down a little bit the rabbit hole but our solar panels package just stacked on top of the other on pallets, are they packaged vertically? Like how does this work?
+
+Speaker 1  10:04  
+They're both. And frankly, neither one is the silver bullet, right. And so, in general, the installers, they prefer a flat stack, it's easier to take the module off makes them buy one. Yep. However, when you flat stack, that's when you get a lot of deflection, right? You think about a two by four laid flat, it's very bindeez and on it's in, it's a lot more robust, because you
+
+Nico Johnson  10:25  
+ever take the doors down in your home, do not lay them flat, lay them, lay them put them up against the wall, right? And
+
+Speaker 1  10:30  
+so that's I mean, they prefer flat stack. However, the deflection means when you fly to sec, you tend to get more breakage. So that's why I would say I'd have to double check this, but I would say most manufacturers these days tend to vertical stack just because it reduces the breakage, which is a liability for them. Yeah.
+
+Nico Johnson  10:49  
+And especially glass glass, like the dual the dual by direction or by facial modules. Yes, yeah. So
+
+Speaker 1  10:55  
+and when you when you vertical stack, you get kind of that additional rigidity from the aluminum frames, that helps keep the modules from bending and breaking. So But you think about that, from an installer standpoint, you get a bit of a pallet of modules that are stood on their end that are banded, as soon as you cut the bands, those want to fall over and absolutely 2000 plus pounds of solar panels that want to fall over onto a field guidance, not not a very safer or good situation. So we've seen people that back their cars up to the pallet, and then unbanned them. So I'm not joking. It's just so the models don't all fall over on the wall. So it's like, yeah, like installers do not like the vertical stack from from that standpoint, how
+
+Nico Johnson  11:38  
+interesting, okay,
+
+Speaker 1  11:40  
+all these things I never would have? No, there's so many more ways
+
+Nico Johnson  11:44  
+that you'll be able to geek out on things that palettes that we need to know about palettes. I mean, by the time we're done with this interview, you'll be an expert on the listener, you'll be an expert on how pallets work, I guess that you probably question how you have interacted with ballots if, if, if you are listening all the way through this. And more importantly, questioning where else might we find waste in the waste stream that we need to address? When you think back? You've been PV pallet started when you're? Well
+
+Speaker 1  12:13  
+back to the napkin concept was 2019. Right? We officially became an LLC, you're still 21. We're getting there and 80.
+
+Nico Johnson  12:19  
+So in 2020, I mean, you and I both been in the industry for more than 15 years, when you started looking at this product. If you reflect back 510 15 years, I think timing is everything what needed to be true for you for PD palette to work. And I'll note before you answer this question, that around 2020 in the pandemic, when I first saw PV pallet, and then come on to sort of the the radar screen, I was like no, this is this really smart, novel idea. But damn, this is really going to be hard like how in the heck are these guys going to commercialize this product? The status quo is so hard to disrupt here. So what do you think needed to be true for you to get enough traction that you could get SBIR loans that you could get grants from the DoD that you could get your first customer, which, this week, by the time this publishes, we'll be able to announce so you can talk about it. Yeah, here as well excited. Your first like really big manufacturing customer like what needed to be true for that to be possible.
+
+Unknown Speaker  13:22  
+Man, how much time do we have?
+
+Nico Johnson  13:25  
+Well, I'm wondering it like on an infrastructure level, a technology level, a scale of the industry level, like maybe unpack those three or four?
+
+Speaker 1  13:32  
+Well, you know, I think from a timing standpoint, you know, PPA prices, general market has come down so much, then to me that lends itself to there's room to invest into other places of the market to make improvements, right, like, how much lower can PPAs go? You know, when we started out? What PPAs? Were what five when he was 24? I don't know. Yeah,
+
+Nico Johnson  13:57  
+we were seeing remember the sunset, the sunset reservoir in San Francisco $25 A megawatt hour. It's
+
+Speaker 1  14:04  
+insane. It is insane. Yeah. And like I started having to go back in the day. And when solar thermal was still competitive, right? Like we were building massive solar thermal projects with molten salt storage, because that was still cost competitive. To PV. So point being, you know, everybody wants to eke out lower and lower prices. But at some point, I think we need to invest in efficiencies. And I think we've we've gotten to the point where there is room to play, and everybody can still make money while making things better.
+
+Nico Johnson  14:32  
+Yeah. We talked about this recently with Adam Scott II as well, because the same conversation is true around recycling. Yes. Right. Yeah. There wasn't a cost point where we could start thinking it was like, Oh, that'd be nice to have if we only get to the place where we can start thinking about these hard problems. Right, right. Yeah. Okay.
+
+Speaker 1  14:50  
+And you know, the great thing about PV palette is that it actually it's one of the few if not only times in my life, I'm found something that you can go green and save money. Yeah, it's like to go green. Oftentimes it costs Oh, that's just the reality of things. But the the long term savings is there when you switch to reusable packaging. It's a, it's a shift in mindset. But there's no doubt that over time, you'll save money by doing it. So anything
+
+Nico Johnson  15:14  
+technologically like the way that things are plastic mold injection technology, or anything like that, that just didn't exist. 510 15 years ago, if you tried to do
+
+Speaker 1  15:23  
+this, in terms of the plastic industry, I would say not really. But we certainly pushed the envelope with our design. There were very few people that could mold a part as large as we needed to ship solar panels. And it also required a unique type of injection molding called structural foam. So it and there's very few motors that have structural foam molds out there. So we were kind of there wasn't a lot of options to choose from. It's not like you could go pick up, you know, Google some local injection, molder and make this palette. So just from that aspect, I think there was we push the envelope we heard no, a lot. We didn't They not only
+
+Nico Johnson  16:05  
+we request from CMS, like people who you're asking to make this Yes, yeah. Yeah. I
+
+Speaker 1  16:09  
+mean, there's not many people out there that can do it. And even the ones that could question whether it was doable, because it's such a large part, and the way that our braces fold into the sidewalls, believe it or not, there's a very unique engineering challenge. Yeah. Yeah. Because if you think about from a structural standpoint, when the wall when the brace nests in the wall, yeah, every cross section of the brace that's in the wall makes the wall that much thinner, right? Okay. Yeah. So now instead of, you know, if you look at our wall, and it's four ish inches thick, our brace is two inches thick. So now you're actually working with a two inch thick wall. Yeah. And that poses a challenge from the the stacking standpoint. So there was a mold there, molding challenges, there were design challenges. And frankly, I just think nobody had taken the time to really dig into this and figure out how to make it work. So yeah, there
+
+Nico Johnson  16:56  
+were much bigger problems to solve. Earlier in the timescale that
+
+Speaker 1  17:01  
+made sense. And honestly, like, again, you and I have been in the industry a long time, I've worked for big EPCs, I worked on the consulting side work with developers. I never fully grasped how big of a problem this was right?
+
+Nico Johnson  17:13  
+I would argue many people listening do not understand job
+
+Speaker 1  17:17  
+sites, and you don't really see the waste. Like if you go to the part of the block that's being worked on, usually the waste is gone already. Or if you're doing a startup, like like I did startups and the waste is already off site. At that point,
+
+Nico Johnson  17:27  
+I'll tell you if somebody's listening, and you want to better understand the scale of that problem, specifically, because we go into detail. But Emily O'Leary from kringla, Gleann good. Is it green clean solar, did a great or clean green did a great job of explaining the on site waste problem? I would refer people to that episode, specifically, if you want to really dig deep and better understand that that side of it, because it goes it goes beyond the pallet. There's so much waste happening on a project site and the construction industry writ large. But we'll look we'll stick to solar for today. You know, my first question to you when I really wanted to dig in and better understand the business model is from this small perspective, the natural question is, well, who's your customer? Right? Yeah, because it's not next era, right? Like, at best. Next, there could go? We think there's a great idea, right? Or, you know, name your IPP could say, we think this is a fantastic idea, or Amazon can be like, we love this idea. And they try to pull it through. But you don't sell to the developer?
+
+Speaker 1  18:29  
+No, no, right now we're actually selling across the whole supply chain, believe it or not, we've sold to EPCs district distribution, we just
+
+Nico Johnson  18:37  
+leave it Yeah, the early the early adopters, in the in there's, there's enough
+
+Speaker 1  18:41  
+value add in the features and things that we provide that everybody's found some sort of a niche benefit from. But ultimately, you're spot on, we're not selling to developers, and that is one of our challenges is who buys these, right, right. And you can skin the cat several different ways. So, to me, the developer, the project owner, ultimately, the savings rolls up to those guys. So right they should be the champions that say we want this on our job sites. And it's also good PR for them right to have a clean job site. So they can dictate the change. There's still kind of a, you know, finger pointing between the manufacturer and the installer of who should buy them, right? Yeah, who owns these palettes? Who should buy him who manages them. And that's one of the things we've done as a company has tried to pivot so that that's not a problem anymore. So we're working on a rental program and building that up it's very capital intensive. So as a startup, it's it's it's a big reach to get to that point. But that's kind of the third option is a rental
+
+Nico Johnson  19:40  
+program like your existing model like it's taking what's happened in, in almost every industry writ large, the movement towards monthly and annual recurring revenue, the movement towards some type of a subscription product.
+
+Speaker 1  19:57  
+Most importantly, it makes it the easiest It's the easiest answer for the customer, right? Because now they're if with a rental program, they're operating the same way they are today. It's just a recurring line item expense. Yeah. On the project. They're not having to own the fleet or manage the fleet or repair refurbish, right. It's pretty much turnkey, just like it is today. So in an ideal world that's that's like the easiest wins for everybody. But that's a you know, again, startup has so many capital intensive it for how
+
+Nico Johnson  20:25  
+that works. Yeah. At the risk of losing that thread, maybe you'll help me come back to it but I'm because I'm genuinely curious. Like, okay, well, where does the product sit? If it's a rental, where's it going to? And from that would be all us? Yeah. Warehouse. You
+
+Speaker 1  20:39  
+have your own three PL? Yep. Wow. Yeah, we're partnered with a logistics company in Iowa. So we actually, this is I don't know if you know this or not. It's kind of where it's in the background. It's a little bit public, but we haven't really been pushing it yet. But we're building up a reverse logistics program called PV loop. PV loop. PV loop. No, I have not heard of that. Yeah. So that's it's turnkey, basically, reusable packaging management for our customers. Oh, how cool. So it's all managed in a TMS platform with transportation management software. So we can track because we with Reusables. Great thing about reasonable is is you can add RFID or GPS tracking.
+
+Nico Johnson  21:14  
+doesn't ask what kind of technology Yeah, fuse into Yeah, so you can see
+
+Speaker 1  21:18  
+where it is at every point in the supply chain using on our TMS system. And we can tell you where your pallets are. The what's really exciting to me as a solar environmental nerd, is with all that not only can we do transportation analytics, where we can do environmental analytics, so we can tell you how many pounds of wood waste you've diverted from landfills. Our pallets are made of recycled plastic. So how many how much plastic? You've kept all sorts of plastic. It's all sourced by we have our injection molding done by third party company in Ohio. And they source all the recycled plastic. Yeah. But it's literally what I love about it. I tell the story. Sometimes we have a peanut butter jar full of the plastic grind. Yeah, it goes into the molds. Yeah. It's literally like when at end of life or pallets, you can just shred them up and put the plastic right back and they go back into toothbrushes and stuff like Yeah, yeah. And it's cool, because in the plastic grinds, a lot of them are black. Which means if they're black, they've probably already been set recycled at least once because you think of like, like a palette of paint. If you mix it all together, it turns like this dark grayish brown color. But there's also bright pinks and oranges and blues and all those if you see a bright color, that means it's being recycled for the first time. It's just really cool to see like actual
+
+Nico Johnson  22:28  
+visual doesn't come out like that in the palette itself.
+
+Speaker 1  22:30  
+No, it all mixes together in the mold. So you can't see it once it's once it's in the palette. Like color. Yeah, yeah, that'd
+
+Nico Johnson  22:36  
+be nice. What are some of the milestones that point to like this is working? I know that you raised a little capital, it was mostly like Bootstrap by your co founder to begin with. But how did you get to that? To that momentum point where the flywheel is like working for you? And who were some of the key customers, if you can mention them along the way, they helped you get there. Some of the
+
+Speaker 1  23:01  
+key milestones, I mean, for one, you know, as with any manufacturing process, you come up with a prototype a minimum viable product. And we I hate to say it, but just because of our overall messaging, but our our prototype we built out of wood. Believe it or not at all. We 3d printed some of the more intricate parts of it, like the hinges and latches and things that had to go into it. But yeah, we had it. We had a prototype made out of wood. And we took that to the molding manufacturers to say, can you guys make this obviously, but we also started kind of doing a little roadshow with that to regional installers and magnets. This is blown. Yeah, injection molded plastic and we got great feedback for that's cool. So that was one of the big milestones kind of like gave you the assurance that we were on the right track. Right, right. I'd say the next big kind of traction moment was Oh, my God, we we invested a lot of money into our injection molds. Over a million bucks. But and there's really no way around that where that's actually I'm owning those VC money. Okay. Yeah. See, raise
+
+Nico Johnson  24:05  
+the seed round proceeds? Yeah, see, we
+
+Speaker 1  24:07  
+call a seed one raised a million, which, in hindsight, didn't even cover the full cost. But that's a lesson learned. But yeah, as isa ventures in Iowa was our seed investor. And really, there's no shortcut injection molding, like you have to make the whole mold. So that's, that's one of the biggest barrier to entry is an injection molding is because it's a significant investment,
+
+Nico Johnson  24:27  
+purpose, mold, the audience is using it, right. Like, it's a big bet downtown is
+
+Speaker 1  24:32  
+if we're wrong, we have a million dollar hunk of metal that, you know, what the hell are we gonna do and so, but we had we had the mold made, and we took our first production units to InterSolar in 2022. And the feedback was phenomenal. Right? It was we had this thing on the show floor. Everybody was coming up to us and I can't tell you how many times you heard like, How come no one's done this like I've been waiting on this forever and just like hearing that kind of fee. back all day long for four straight days was was, you know, just what we needed to hear. Right? Which InterSolar was is 2222. So, you know, you feel good from that. And then we this is what should have been a good feel good milestone, but in hindsight wasn't but we started basically putting together a pre order list or an interest list if Sure. And we were very excited by that. Because in our minds, we had already sold almost 1000 pallets before we even come to production. Right.
+
+Nico Johnson  25:30  
+The old get your customers to say yes, before you go to production? Well,
+
+Speaker 1  25:35  
+in theory, yes. In reality, there was no deposit or anything. And the I don't know what the final number was, we probably sold maybe 50. Pallets not a not not 1000 is
+
+Nico Johnson  25:47  
+a big difference. Yeah. So your your guys in Iowa weren't, weren't too thrilled with it.
+
+Speaker 1  25:53  
+Not at that point, but we already marched down the path. interest was there. It was just I think it was a fault in the way we structured like the pre or like, should have found a way to get some some teeth and people to actually commit, not just say, Yeah, I'll take 500 pallets, sure, whatever. That's a
+
+Nico Johnson  26:08  
+huge entrepreneurial lesson. Yeah. Early in that process. But
+
+Speaker 1  26:12  
+then later on, you know, we came to market in June 22. And that's when we started shipping our first product. Our first big one was with BayWa. Right, he signed a partnership agreement with them. They ordered. I think it was two truckloads, either one or two truckloads of pallets. And they, they distributed them throughout the country to 10 or so different locations. Yeah. Very excited about that. We had kind of a marketing campaign with them did a full podcast on their podcast, right? Yeah. Talked about it. Yep. Yep. So that was that was it seemed to be a big win, I think. But it kind of fell flat. And I think a big part of that is they didn't really know how to sell these things, either. Right. Yeah. So
+
+Nico Johnson  26:53  
+this is on the distribution side, not on the development side. Yeah. They wanted to get behind you. And they saw the opportunity, like the value differentiation. Yes.
+
+Speaker 1  26:59  
+And they like, you know, they're they I will say they are believers. And you know, there's people in our industry that say they believe in being green, and there's people that actually do and I they definitely do believe in it. But they were buying these pallets, and it's like kind of how do we resell these do the modules in them and then sell them like, it was never really figured out? And frankly, I think the juice just kind of wasn't worth the squeeze for them to figure that out when they kind of had bigger fish to fry. So that that one again,
+
+Nico Johnson  27:27  
+that's his wife, nobody had tried to solve this problem. Yeah, yeah, totally. Yeah. Is there a moment in that since like, June two of since 22. To now that you were you, yourself, became as the entrepreneur believer like, Okay, this is actually going to work. Now. This is no longer a patch. I've always done it since the beginning. Yeah. But there's always that moment where you kind of you crossed the threshold. It's like no, looking back, this is like your investors are going to be proud of what we're doing. Now. What was that moment?
+
+Speaker 1  27:58  
+Well, the one again, like you said, that we will be able to talk about once this comes out is the Halloween
+
+Nico Johnson  28:05  
+isn't an alien? Um
+
+Speaker 1  28:10  
+He won't give us an answer either. Yeah. But you know, middle of last year, we were really trying to solve because like you said, there, there was definitely something there. It wasn't fully clicking right. There. Were still these questions. How do we make this work? How are we going back? It's too expensive. And I think that was really a big turning point. Middle last year for our companies. We started. We pulled back a bit from trying to push the series X on to the industry. Yeah. Which is kind of a Swiss army knife. Yeah. And say, if we're talking to high volume customers, let's make a product for them. Go talk to him, what do they want, we'll make specifically what you want. And that's we took that approach to Halloween last year, last year, I think it's June or July of last year. And ultimately, in that meeting, we had this concept for a nesting palette that would go inside of the series X and that way, they could have a cheap palette, and then you could have the benefits of the series X sidewalls and things. And we took that in there. And to them, it looked like a flat palette. That I mean, we had a little 3d printed prototype. Sure. And they're just like, Yes, that's what we want. Okay, and take the series X out of the picture, like they didn't, they didn't even really want the series X. They just want a flat reusable palette. That is a very easy swap out for what we're doing. Wow. And that was a huge turning point. And Martine to his credit has been I met him for the first time to three years ago. Yeah. And from day one, you know, he's a believer. Another one of those examples are people that truly believe in sustainability. Yeah, leaving the earth a better place. And he was he was bought in. I mean, he's been a huge champion for us. And that was one of the big turning points is that, you know, we had full buy in from our team to make this work. And we had a solution that if and when we make it work, it's going to be scalable, it's going to be truly it's more cost effective. It's a it's an easy in with the manufacturing. are in their operations and manufacturing lines. So that was one of the biggest turning points, for sure is getting. Helene on board with us.
+
+Nico Johnson  30:08  
+Yeah, Megan, for folks who aren't familiar with Martine and Helene, when we first did when I first met her, Martine, and I've known him for a long time. But when I first met Martine and did the interview with him, he talked about this Old Testament philosophy that's a part of the Jewish culture called tikkun olam, which I'm sure he's mentioned to you. And it's the whole essence of what are we doing to make the world a better place? So he's, I mean, he's definitely or I would say, I don't know if I'm capable of saying this, because I'm not Jewish, but I feel like he's probably would be said by the Jewish people is immense, right? Like he's always looking at how do you connect the dots and the value for for folks, and it's been, when I sort of looked into that to Kuhn alarm philosophy, it really applies a little bit more to what does it look like as a business owner to infuse the culture with this, this broader purpose is higher meaning that that's, that's philosophical. It's not? It's not we're trying to save the world by transitioning from fossil fuels. It is. It is that we're trying to leave the world a better place. And more than just the products and curate the culture that we infuse into our company. Where did you grow up? You grew up in the Midwest, St.
+
+Unknown Speaker  31:25  
+Louis, Missouri, la. Yeah. Midwest boy.
+
+Nico Johnson  31:28  
+Fantastic. Do you know I think I probably asked you this before, but do you know, Andy clump, he's the St. Louis boy. Yep. Yeah. No, Andy.
+
+Speaker 1  31:34  
+Good guy. Yeah. That's kind of how we connected was the St. Louis. St. Louis culture. Yeah.
+
+Nico Johnson  31:40  
+So my guess knowing Andy is he reached out to you and he was like, Hey, I see. You're an entrepreneur in St. Louis. We're gonna MPV I
+
+Speaker 1  31:46  
+think so. Yeah, it's been a while since we first met. I was doing like consulting work. I think when I met him. Well, I'll tell
+
+Nico Johnson  31:51  
+you one thing, Andy, despite the fact that he's running a company as big as CEA will absolutely listen to this episode. Yeah. And and he will absolutely reach out to you and tell you congratulations for the episode. Oh, he, he, it's it's mind boggling to me how he gets time for the kind of, he's a voracious learner. Yeah. And he has he is a self professed, like, he has said to me, I've listened to every episode of SunCast. Wow. And that's over 700. And that's not the only podcast that he's listened to every episode. Wow, he's made recommendations. I'll send you some of the recommendations he's given me that are particular to founders that I don't, I don't know. Like, I don't remember the name of one of them in particular, but there's one that you should definitely listen to as a founder that's looking to like, grow and have some sort of strategic, you know, acquisition at some point. He's got a lot of time on planes. Not too so for sure. Button seat on the plane is when he's listening to stuff like this. But he I get the feeling he doesn't sleep that much. Yeah. So it's fun for me to see that you grew up in the Midwest. Obviously, the company's based in the Midwest. First headquarters headquarters is
+
+Speaker 1  32:56  
+in Montrose, Iowa, Iowa, we call it the Florida Iowa if you've probably noticed, I didn't know this either. Until we started coming, but there's a little peninsula in the southeast corner of Iowa, right on the Mississippi River right there. Totally.
+
+Nico Johnson  33:08  
+And, and it's fun to see also that you've got there's a big infusion of Midwest companies, including investors that are part of that. I presume, that that is part in part that's part of being in the Midwest and the network that you have. But is there more to that? Is there an intentionality of keeping things in within the family of Midwest, not
+
+Speaker 1  33:27  
+so much intentionality? It's more just the nature of the Midwest culture. Yeah. And connections out there. I will say, you know, we, we were kind of required to have our headquarters in Iowa because our VC investor was in Iowa, and they required the headquarters to be there. So the state of Iowa and everybody up there has been just incredibly supportive across the board. I mean, we've gotten we've leveraged state funding for high quality jobs program from the state of Ohio, we've we've leveraged local economic development funding, VC networks up their manufacturing networks, our logistics partners up there, it just isn't grnd Nelnet they're there as much here in Iowa. I'm not sure like they are. I feel like they're in Iowa.
+
+Nico Johnson  34:09  
+Yeah, yeah. But
+
+Speaker 1  34:10  
+it's, it's just, it's, I mean, it's a small state. It's, believe it or not, this population of the entire state of Iowa is about the population of St. Louis. Wow. That's crazy. Yeah, it is. But that means everybody is very well connected and everybody's willing to help in the state of Iowa was investing a ton of money into into building up the manufacturing and jobs and tech jobs started really trying to bolster up that state a lot so the timing from that same point was good for us because we were kind of an innovative you know, up and coming company that they wanted to help see success.
+
+Nico Johnson  34:41  
+Did you grow up thinking? I know you got your degree in mechanical engineering, but did you grow up thinking I want to be an engineer like was that your path your life path? Well,
+
+Speaker 1  34:49  
+if you go back to the very beginning, I wanted to be either a garbage man Yeah, because they got to ride on the trucks or ghostbuster. Yes, of course. Yeah. But no I mean, I actually, if you'd asked me in high school I was on like the high school newspaper. Right? So I actually thought I was gonna go into journalism at one point. Yeah. And so I went to Mizzou University was one of the best journalism school Exactly. And then freshman year I decided you know, I'm good at math and science and I just like tinkering with stuff and figuring out problems so I actually wrote the
+
+Nico Johnson  35:17  
+same Were you excited when Mizzou joined sec?
+
+Speaker 1  35:20  
+I was excited at first I thought was gonna be great, you know, just to be in a more competitive division. It's not I guess the last year or so it has been too good but it's it was a rough decade. Really
+
+Nico Johnson  35:32  
+interesting, right? Yeah. When a&m and Mizzou joined the SEC. It was was weird, kind of like what's going on? I grew up in South Carolina, University of South Carolina as an SEC my whole life. Did you play sports in high school or college? Yeah.
+
+Speaker 1  35:44  
+So I was a racquetball player
+
+Nico Johnson  35:48  
+racquetball for real. So the whole pickleball phase right now is like, like, I
+
+Speaker 1  35:51  
+just played pickleball yesterday. Yeah, I was a racquetball guy randomly. I was a I grew up playing baseball. I moved to a new school freshman year, tried out for the baseball team because I didn't know anybody. Right. So I was basically cold tryout and I broke my finger at tryouts. Yeah, grinder popped up and hit me in the index finger. And that basically put me out for the season. So that was kind of the end of my baseball career. But freshman year, freshman year. Yeah. But I started playing racquetball. Freshman year is kind of originally cross training and just trying something new. And I love the sport. So
+
+Nico Johnson  36:27  
+I started wrestling because I hated my baseball coach. Really? I played baseball from the time I was four years old. Yeah. And I hated my baseball coach. And so I lettered in my freshman year in baseball really then. So I was like, anyway, I started wrestling to cross train between football and track. Really? Yeah. And I ended up being on the on like, I went to the state championships in wrestling. That's amazing. Crazy. Yeah, cross training. That turns into a sport that you love flying. It's like,
+
+Speaker 1  36:52  
+that's actually become kind of a founding pillar of my life. Yeah, it's
+
+Nico Johnson  36:57  
+a lifelong. Yeah.
+
+Speaker 1  36:58  
+I played in college. I coached the high school team after college and then coached high school. So cool. Yeah. To have the best man in my wedding. We're racquetball friends from high school. Like it's no way Yeah, because it's such a small thing. make great friends.
+
+Nico Johnson  37:11  
+I just recently read this stat. And I wish I could find this stuff really quickly. But racquet sports in particular, table tennis. Yeah. Proven to extend your life. Really? Yes. Like studies have shown that racquet sports and in particular, table tennis because of the dexterity and the the mental acuity required. Really, it will extend not just your life, but your presence of mind into old age. Yeah. Now I've
+
+Speaker 1  37:37  
+got a good excuse to get a ping pong table. Absolutely. Yeah, you
+
+Nico Johnson  37:41  
+have to get a ping pong table and keep playing keep playing pickleball
+
+Speaker 1  37:44  
+Yeah. Yeah. Yeah. So randomly ever Yeah, racket ball is my sport who are figuring So you
+
+Nico Johnson  37:50  
+ended up getting a mechanical engineering degree? You went to Mizzou, and then you sort of switched? Why'd you switch to engineering?
+
+Speaker 1  37:55  
+I just journalism just wasn't it for me now. I, you know, I, I enjoyed it, kind of, but I just I like having a definitive answer to things and you know, like journalism and communications all the time. Not.
+
+Nico Johnson  38:14  
+So I studied zero journalism, even after starting SunCast. I haven't actually studied journalism, I have no idea. If I'm doing this, right. People just saw me working. Right. That's all that's just persistence. You can do that. 100 Anything?
+
+Speaker 1  38:28  
+Just it drove me. I don't know. I just like having an answer to things. And so engineering just started to click More and more. I didn't know much about it. So the more I looked into this, like, I think I think I could do this. Yeah. But I always, oddly enough, I wanted to do engineering. But I also knew I didn't want to do engineering long term. Yeah. Right. I had this theory, like early on, you know, when you're very money driven, and it's like engineers start out making good money post college, but the trajectory isn't, isn't high. Yeah. Whereas a business major starts off lower, but has immense potential. So I knew I wanted to switch trajectories at some point.
+
+Nico Johnson  39:04  
+Well, if I'd known this and I, kudos to one of my best friends, he always made fun of me because I started an engineering school and switched to business in undergrad. Oh, and that was a mistake. And I readily admit, that was a mistake. But it was the best choice for me. Yeah. But it turns out that the best like career trajectory is an engineer MBA, really, in almost any field. Perfect. Yeah. An engineering bi because you learn what it's like you learned the numbers, you learn like hard skills around, you know, solving problems. Yeah. And then in the business school, you learn financial accounting, you learn how businesses work. I remember the same best friend, he came back to me when he was getting his MBA at NC State. And he said, I understand he goes, understand you so much better now. Really? Yeah. After going through his MBA program, and he goes, I never would have given credit to it. But like this MBA taught me how to how to handle people. And a lot of engineers sort of go into engineering because they don't like dealing with people. Right. And I went away from him. Hearing because I like people, and I didn't like machines. I didn't like the whole process of like, I'm gonna sit in front of a computer, I didn't realize that all of us were destined to sit in front of a computer, the rest of our lives. Yeah. So anyway.
+
+Speaker 1  40:13  
+And I will say, like, I got my MBA at Arizona State while I was living out in Arizona for 10 years before I got stuck back to Missouri. And I, I've always said, I don't think I would have enjoyed the MBA or got a lot out of it if I had a business undergrad. Yeah, I think the combination, you know, because there's a whole new world of education, you
+
+Nico Johnson  40:32  
+have to understand that the problems that you can solve with business skills. Yeah. All right. Well, what was the pivot in your career that brought you into energy? Understand that your first job I think what was on go with regards to energy?
+
+Speaker 1  40:44  
+Well, it eventually turned into almond go. But So originally, I mean, it started with just a network connection. My my neighbor up the street was the VP of Engineering at Monsanto. At one time, it was a Monsanto subsidiary, they spun off here called MECFS. Yeah. And they did sulfuric acid plants design build, go figure, I mean, who goes to college and says, I want to design build a sulfuric acid plant like nobody, right. But I got hired on there as an intern and did kind of, you know, paper shuffling, checking drawings and things like that, by like the company. So I went there post college, and right when I hired up, they had just finished kind of an experimental ethanol project. It was very small, but just to kind of dip their toes in the water and see if it was good fit. And and it was, so they were building up a EPC division that was focused on ethanol project. Wow. And they put me in in that division. So that kind of right out the gate set me down the energy path if,
+
+Nico Johnson  41:41  
+as I've told you, you've been in clean energy since 2000 676. Yeah, you don't give yourself enough. I don't I don't 15 It's really 70. Yeah, yeah,
+
+Speaker 1  41:51  
+totally. So. And that was cool. I mean, I was on site as an engineer, I just seeing pumps and this process corn into a new vehicle field, which is pretty neat. And then I'm gonna go, eventually acquired NBCs or EPC part of it. And then they started they did as an offer a few years till that market, right, as most people know, bottomed out in the late 2000s.
+
+Nico Johnson  42:14  
+Yeah, when I was in grad school, I was really into biofuels. Yeah, I really thought that it was a bit It wasn't me. It was I was looking at all Jatropha and all the different types of biofuels. You know? Yeah.
+
+Speaker 1  42:25  
+It's fascinating to me that I mean, there's that we're, there's ways to make energy and power that are sustainable. Yeah. And it's, it's just, it's always been a really cool concept. To me. It's, you know, I like the outdoors like backpacking and just in like, doing things simply and efficiently.
+
+Nico Johnson  42:41  
+So instead, Alan, good. You got a chance then to expand beyond ethanol into this budding field of solar. And I think gold was really well known at that time for concentrating photovoltaics. Yeah.
+
+Speaker 1  42:51  
+Which as a mechanical engineer is, is exactly what you're frankly, way cooler than moving. Yeah, exactly. Exactly. So yeah, they built two. I think they were 280 megawatt solar thermal plants, one in California and one in Arizona. And yeah, I was an engineer designing the only two
+
+Nico Johnson  43:09  
+one adder really they both are the only two that matter in the US of solar for STP. Yeah.
+
+Speaker 1  43:15  
+The cool thing was Arizona, one had eight hours of molten salt storage, so could actually run into the night, which was like revolutionary. Yeah, time and what year is this? That was season eight. Yeah, I think we were designing it No, eight. I think they kicked off construction in Oh, nine or 2010. Somewhere around as well. I
+
+Nico Johnson  43:30  
+think that most people don't even realize is that 15 years ago, we were building baseload solar power plants. Yeah.
+
+Speaker 1  43:37  
+Yeah, totally. And also, the fact that that plan, I think, cost upwards of $2 billion for 280 megawatts. Yeah. And that was cost effective at that time. Yeah. It's crazy to think about it is insane. Yeah. So anyway, funny. I can go into it. I guess if you want. I moved out to Arizona to work on that heel bend. 280 megawatt project. Yeah, I was told I just might. I had just started dating my girlfriend at the time, and was told I was going to move out there. So we were like, are we going to break up? I can do this long distance thing. So we moved out there together. She found the job before I did. So she moved in, I think June or July. Yeah. And I was still in St. Louis. Two weeks after she moved they told me they kind of renamed project. Yeah, the project is delayed. They said we don't need you out there for another year or two. And so I ended up leaving the company I worked for CDM Smith and Arizona for a little over a year doing each fact design for industrial projects when riveting sizing fans and blowers. You know, it's like so so yeah, not for me. I'll just say that. So anyway, then Abengoa called me back and asked if I wanted to stay in Arizona and come back on to work for them and do business development. So cool. So so that was kind of my switch into the business side of of the industry. Yeah. And
+
+Nico Johnson  45:00  
+in the meantime, you had gotten your MBA? Not
+
+Speaker 1  45:03  
+yet. No. When did I do that? That was I graduated from that in 2014. So I did business development for a couple years. I had always said, If I don't do it before I have kids, I'll never do it. Yeah. So knowing that that clock was kind of coming up, I started working on my MBA, and I actually got my MBA. Six weeks before my first son was born.
+
+Nico Johnson  45:27  
+Wow. Yeah, that's cool. I got my MBA two weeks before I got married this year.
+
+Unknown Speaker  45:35  
+And that's honeymoon. And my fiancee
+
+Nico Johnson  45:36  
+now wife. Got it. It was a race acid who will stay will live in the city of the place that whoever gets the first job? Oh, really? Yeah. It did. I mean, yeah, perfect, fantastic. She ended up working in wine. She got a wine job. And I still have one in my basement from 20 years ago, like we have, yeah, we have a lot we bought, we ended up acquiring a lot of one at a time. None of it. It's not like, you know, it's not like, you know, some like Eagle rare or anything like that. It's not like, I wish we had acquired some noteworthy wine like that. But I learned a lot about one. Yeah. So were you still having go when you met the co founder of PV palette, I was taking me
+
+Speaker 1  46:20  
+that. Yeah, we're going like the whole the whole story here. Which is fine. So I haven't got, as people who've been around long enough may remember, they had some very sad, challenging financial times around 2015. By challenging financial times, I mean, they went bankrupt. I was on a vacation, actually, with my wife, no kids, and I got a call from my boss. And he said, I am not supposed to tell you this, but you are not going to have a job tomorrow, and neither will anybody at this company. Oh, my God. So I spent my week in Hawaii, trying to figure out what was next. So serendipitously, I had a contract in hand that was literally fully negotiated rate assignment was just front end design, which historically would have been doing, you know, 100 million plus dollar EPC. Yeah, jobs. And this was a small, basically a job that was doable by a small team of a few people. No idea how it worked out that I had that at that time, but I did. So I spent a week on people that were just like a total side deal, or it became a side deal. Yeah. I mean, the the contract wasn't a contract for other than go ah, yeah. And we were able to go is no more. So I called the customer. I called a few guys that were supposed to be on the project. And I said, Why don't we do this? I mean, we're gonna be looking for jobs anyway, like worst case, it doesn't pan out. And we're in the same situation we're in. Right. Right. So we went for and that turned into my first entrepreneurial foray, which was prism sustainable solutions. Yeah. So me and another guy, Chris Pickett, who's today works for NRS. We started prism and the whole business model was providing front end preliminary design for project developers doing all the energy modeling preliminary layouts, and helping with interconnect cues. Yeah. And funny enough that whole time, you know, it got to the point, it was fun for the first year. So when you're building something, and then you start becoming a true consultant, where you're selling hours, yeah, and every time every hour, you're not working, you feel like you're losing money. I said, Man, I wish I just had like a product that was really cool. And just sold itself.
+
+Nico Johnson  48:24  
+Yeah. And now you have a product. That's really cool.
+
+Speaker 1  48:28  
+That's really cool. doesn't sell itself. That is what, basically, there's no shortcuts, right? I mean, that's that's kind of the overarching lesson of entrepreneurship. Everybody. When you look at successful entrepreneurs, you see, the typical tip of the iceberg. You see the success, you don't see all the backend work and and quite frankly, you know, Nothing's easy. Yes, it's now I have a really cool product that should sell itself. And it's, it's still challenging in other ways. So. But anyway, I did consulting for a few years. Got tired of that wanted to roll that up. And my my partner acquired my part of the business and then I moved to St. Louis, kind of back home. Yep. be closer to family. We had three kids at that point. And I worked for Raceline, which is a St. Louis based company, and one of their core offerings was renewable natural gas projects. Okay. So again, renewable energy, yeah, not solar. But they would go and they would go to hog farms. And the big manure lagoon that's emitting all this methane gas, it would cap it with HDPE membrane, capture the gas and blow it into a gas cleaning system and turn it into natural natural gas pipeline quality. So you could sell the gas into as if it was just normal natural gas
+
+Nico Johnson  49:40  
+hog farms because we think like, I have a revelation on this. I have a friend that working on this in North Carolina, but the big problem is actually getting like getting the pipelines from the hog farms to the natural gas distribution. Yeah.
+
+Speaker 1  49:55  
+I think Duke is actually working on massive you know, with like Han herds of farmers across the area to try to aggregate all their guests and and yeah, that's a big challenge. The ones that we did were were for Smithfield farms and a couple other big, you know, hog farm companies. So it was more more
+
+Nico Johnson  50:15  
+localized local. So they were using cogent on site. Yeah. Okay. So how interesting. And how did you meet? Well, they
+
+Speaker 1  50:21  
+were but they would also sell the gas into the pipeline. The the crazy thing is California had these incentives for natural gas, where the price the sales price of the gas was based on the carbon footprint reduction, right and baseline, right. So the in hog farms are huge methane emitters. So the price and because the pipelines even in Missouri, were connected to California, they could sell into these pipelines and get and take advantage of the California. They're making a ton of money doing that. That's a great hack. Yeah, yeah. And it's still I mean, it's still great industry. So. But the funny thing was, you know, with my background, I went to resign as the only person that knew anything about solar and the whole company. And I, I'm looking at this, and I'm like your sales price is based on carbon footprint reduction, but you're using the misery power grid to power these, which is predominantly coal and natural gas. Like, why don't you put solar on these and get even, not only will you offset the power costs, Oh, get a higher sales price on the gas. So I started working on that. And that was ultimately where I met my co founder, Luke Phillips, okay, who he had an install business up in northern Missouri and he was putting solar on farms. And he had a lunch and learn I was I went to that his company to see if they could work and do the installations of these jobs. I said I was on didn't pan out, of course, but we met and made a good connection. And six months later, he called me up with this palette concept and looks at Tinker. Oh, yeah, he's a mad scientist. He's he's always got a new ideas. Just he's just one of those guys just can't stop trying to figure out new new ideas for new problems. Yeah, awesome guy.
+
+Nico Johnson  51:57  
+Yeah, one of the things you told me that I appreciate about Luke is that he knew from the very beginning that he wasn't he was the spin the top start get the top spinning kind of Yes. Not carry the product to market kind of guy. Totally. Yeah. How did that dynamic workout as co founders, you guys, and how did you guys set the business up so that you could play off your strengths?
+
+Speaker 1  52:14  
+We early on? Basically, I mean, he we talked about it, he knew that at some point, he didn't want to grow the company. He is the true true entrepreneur. Like yeah, that has crazy ideas, throws money and heart at them. Yeah, and sees them to basically materialization but doesn't want to, doesn't want to build a company doesn't want to build a structure. So and that's what I really enjoyed doing. That's what I liked about when I had prism was building out the marketing plan and the business plan or trying to find new customers. And so we agreed early on at some point that that I would take over the company and you know, even with those agreements in place, there's still challenges, right? Yeah, like it's, in a lot of ways. It's his baby is his original idea. And so kind of turning the keys over to somebody else. It's It's, uh, you know, it can be it can be challenging. It can be frustrating. At some, we've had some some hiccups along the way, right? Where it's like, look, we can't, we can't be on LinkedIn. Like, you can't be talking about this. Like it's your company. So like, we're trying to build the brand around our team today. Not the founding story. Right. So yeah, just things like that along the way. Yeah. That's
+
+Nico Johnson  53:24  
+an interesting dynamic. Yeah, he he self funded the early days right here. Yeah. seed round.
+
+Speaker 1  53:29  
+Yep. Yeah, yep. So he put, I probably shouldn't say numbers, but he put a good chunk of money in and that was equity in the business for him. And then he put more money in.
+
+Nico Johnson  53:41  
+When he started working. He
+
+Speaker 1  53:42  
+just, frankly, I think he was just writing checks and didn't know you know, it wasn't keeping track. But ultimately, what a sizable amount of money. And so a portion of his initial investment is equity and a portion of its debt.
+
+Nico Johnson  53:56  
+I'm interested to better understand the way that you structured the company as the co founders, knowing that he was going to over time, I'm going to say divest of like the day to day. And in the VC world, it's called Deadwood, right? It's like somebody who owns a lot of a company, but isn't active day to day. Yeah. How did you guys navigate the waters? And is there anything that you would advise for founders and co founders that are thinking about raising money, and some of the hurdles that you overcome? Or have to address that you didn't anticipate things like, you know, equity versus debt when you're trying to raise money when you're trying to get business loans and things like that? Yeah.
+
+Speaker 1  54:33  
+There's a lot of lessons learned along the way of building this business, especially on the money side of things. You know, I think I think, step one, keep track of things early on. I think there's probably a lot of investors or entrepreneurs out there that just want to see this thing through and they're just pumping money in as a business needs it and that's great. You're just trying to get something off.
+
+Nico Johnson  54:54  
+Bring on partners right now it would be it would be we're finally cleaning it up. It would be a year ago, but I'm gonna man exactly
+
+Speaker 1  55:00  
+if Yeah, if you're the sole owner and sole proprietor of the business, you can do that.
+
+Nico Johnson  55:04  
+But if people want to invest in the company and they couldn't. Yeah,
+
+Speaker 1  55:08  
+exactly. That's exactly my point. Yeah. So keep track early on. And if you know that you're gonna have partners and investors alike, you got to you have to be smart about the way you're structuring it, how much you're investing how even the company itself we at one point, we started off with an LLC. Yeah. And when we want to get VC money, we had to reincorporate the company as a C Corp. Yep. So that's one I mean, if you know you're gonna go out for funding, just go to a C Corp out the gate. Yep. out the gate.
+
+Nico Johnson  55:36  
+There, is there a difference like functionally for a VC from S corp and C Corp? Is it easy to just start out as an S corp? Like, that's the a lot of us were like, oh, we should be an LLC. And then eventually, I'll pay myself as an S corp. And yeah, taxes. And then if I ever tried to raise money, I'll switch to C Corp. I wasn't I mean, it's just I know, you're not giving tax advice. Yeah.
+
+Speaker 1  55:54  
+No, it's just, uh, I mean, to go to a C Corp is a time and money investment and wasn't substantial. But it's just like one more thing you have when you're trying to start the business. It's like, Oh, my God. Now we have to do this. My understanding of S corp because we were S corp it prism of and I think that's more just from a tax standpoint, right. It's, you're still an LLC, but you can file as an S corp to take advantage of some tax items.
+
+Nico Johnson  56:15  
+Okay.
+
+Speaker 1  56:15  
+But yeah, if you're, if you know, you're gonna own the business, or maybe you just have one partner, you guys are never gonna get gonna go out for money. I'd say LLC, S Corp is probably the way to go. Yep. But if you know, you're gonna go for outside investment, I would go to a C Corp as soon as possible,
+
+Nico Johnson  56:29  
+less than one, and then how to end? And is there anything structural that you would do differently?
+
+Speaker 1  56:33  
+Here's one of the biggest challenges that we've had with the structure of our business. And with Luke, you know, he exiting the business, he has his own another company from solar that he was really passionate about getting off the ground, and which is awesome. But when with him not actively involved in the business, as you I'm sure know, when your startup personal guarantees, everybody wants him, right. And he owned because he was the majority, majority investor, majority founder, he owned a sizable chunk of the business. And when you're going out for particularly in our case, we were looking for SBA loans, because we added equipment investments, anybody who owns more than 20% of the business has to put up a personal guarantee. There's no way around it. So with him, but he at that point wasn't in the day to day, yeah. And he had already put up a ton of money. So he's like, I don't want to do any more of us. So we had to essentially buy out enough of his share, to get him below 20%. Oh, and the other kind of nuance to that is that there's a rearward looking six month window. Oh, so you can't just be like, oh, I need this. I need this loan next week. Let's get them down. And we'll we'll be done. So it slowed
+
+Nico Johnson  57:43  
+you down six months, and you had to go probably raise money to buy him out? While we're
+
+Speaker 1  57:48  
+working on that. But yes, I mean, right. It was structured, the biostructure Is that so essentially, we're paying, you know, a decent chunk of money every month to still every every month to buy those shares back, which is a bummer. I mean, it's it's, but it's just part of the business. Did
+
+Nico Johnson  58:03  
+that get factored into the kind of the waterfall for you when with the SBA loan? And what sense in terms of like, use of funds? Like does the SBA care? I,
+
+Speaker 1  58:14  
+we didn't end up actually doing it. No, no. Okay. We so
+
+Nico Johnson  58:18  
+by the time you got everything worked out, you didn't need any more startup life. That's great. That's a great place to be though. Hey, yeah,
+
+Speaker 1  58:23  
+sure. Yeah, it is. But yeah, it's you do all this prep, and then find out you didn't need it? Because I mean, Silver Lining sales have been going well enough that we didn't need the SBA loan. Yeah. Another really fun lesson learned from my standpoint, if you'd like to, here it is. I was I was issued restricted shares. And this is a lesson for anyone that's issued restricted shares. There's a type a tax form called a 529. Yeah, that has to be filed within I think it's 30 or 60 days of award. And if you don't, so what the that does is it if you're on a vesting schedule, which I was basically sweat equity, I had to earn the earn the full equity over three years. If you file it, all of from a tax standpoint, your tax bases is the initial value of the stock, if you and regardless of when they invest. So basically, you owe no taxes until your buyout, whatever that may be. If you don't file it, every vestir, your tax based on the fair market value at that master date. So I've had to pay a substantial amount of taxes because that was never explained to me how critical that was, and there's no going back. Like I've talked to many CPAs many lawyers trying to like there's got to be a way to like fix this. Yeah. And there's not. So if anyone out there is issued restricted shares on a vesting schedule, make sure your FY 2019 So much rather use
+
+Nico Johnson  59:51  
+that even if it's on a vesting schedule, if you're issued restricting shares, whether vesting or whether it's like, if
+
+Speaker 1  59:57  
+I don't think I think it's really comes down to vesting, so because if you issued the shares if they are what they are on that date. Yeah, but the best year is really because in theory, your business is growing in value over time. So say their worth is you should share, it's worth $10. Today next year we're doing awesome is where the 100 If you don't invest at that, 100, you owe taxes on that. 100. Yeah. So it's, and there's no way around it. So I would have much rather use the money I paid to the IRS to fund it into the business. Yeah. So I've, I've, in a roundabout way, invested a sizable amount into the sustaining the business, but it didn't go into the company, unfortunately. So that's always a fun story to tell.
+
+Nico Johnson  1:00:39  
+It seems like one thing that the PV palette business could borrow from the recycling industry is this whole idea of a collective right, that everyone pays towards this? common good that we agree everyone should do? Have you how have you guys gotten any progress on that concept,
+
+Speaker 1  1:00:55  
+we for in terms of actual collective, I would love to start a consortium like that, or we've not really pushed on that yet. We're still kind of working on a one on one basis. But and I do strongly believe there's enough people out in this industry that want to see that change. And I've been saying this for a long time, like, we just need to get everybody in a room together and say, we all want this. Let's work this out with the contract structures with the incentives, whatever it needs to be, let's all just put our heads together and figure out how we can make it work. And frankly, with Helene, I think we're gonna see some of that, because I know what their customers want, and allene wants it. And really just comes down to how do we get these back? Who's on the hook for him if they don't get back? And how do we turn these right? Because we're reusable packaging, the ROI. The payback period relies on reuse, right? If you turn them once a year, it's going to take several years for them to break, even if you use them once a month, or once every quarter like they're probably gonna be paid back within one two years, normally is
+
+Nico Johnson  1:01:54  
+the part where I would ask you questions specific to like how much it costs and stuff like that. But my guess is where you're at in the business. It's everything is a special use case. It's like, it really depends. And so it probably isn't worth going down that rabbit hole right now. But I wonder, are there other challenges to the business model? Besides who pays for it? How to get the pallets back? And, and generally just the marketing nature of the business that you haven't talked about?
+
+Speaker 1  1:02:20  
+Well, I will say, Just on that point, you're correct. Everybody has their own variables and use cases. And that changes the payback period. But as generally speaking, two to five uses is the range that we see like regardless of of who is using them where they are cetera. So you know, it's a reasonably fast payback period
+
+Nico Johnson  1:02:40  
+is remarkably fast. Yeah.
+
+Unknown Speaker  1:02:43  
+But from a from other challenges stay
+
+Nico Johnson  1:02:45  
+in that includes the PV loop service. Yeah, okay. Wow. Yep.
+
+Speaker 1  1:02:49  
+The interesting, everybody always says, Well, you know, now I have to pay for logistics, whereas I'm just throwing these things out before like bold throwing, throwing things out isn't free. Yeah, disposal costs, right? You have to pay your laborers to go pick up all the trash on the job site. So yeah, and that's kind of, we have a whole built out ROI calculator where we shed light on those hidden costs that people may not think about. The other the other challenge that's actually come recently, kind of to the forefront is the carbon footprint, right? So today with that PV loop program, because we don't have facilities built out across country yet, if you want to clean refurbish. You either have to send them back to Iowa, right, which is long, in some cases, a long transportation leg or set up a cleaning facility on site or at the supplier. But if we're sending these things out today, like we are to Iowa, the carbon footprint is large. Yeah. Which we are actively working to strategize on. Is it is it cleaning at the job site? Is it cleaning at the supplier is that are regional center that we need to build out to do decent warehousing and cleaning? So we're analyzing a lot of that right now behind the scenes to figure out what the best approach is at scale. Yeah,
+
+Nico Johnson  1:04:03  
+I'm evanescent a few others, but how many people does it take to run this kind of thing?
+
+Speaker 1  1:04:06  
+We've got a 10 right now 10? Yeah, yep. So plus a few other contractors and consultants that help out as needed. But yeah, it's we're lean and mean team right now. We're trying to keep it. What's been really speaking we're we have a series a raise open right now. Okay. We just opened a couple weeks ago.
+
+Nico Johnson  1:04:23  
+How much are you looking to raise?
+
+Unknown Speaker  1:04:24  
+10,000,010? Yeah.
+
+Nico Johnson  1:04:25  
+All right. Do you have a timeline to close?
+
+Speaker 1  1:04:28  
+Six months is kind of the project. Okay. So yeah, yeah. Just double it all. That's basically Yeah, take take projections and either cut them in half or double, but no, six months is what we're, what we're shooting for right now. So like into q3, yep. Yeah. Okay. And I say that to say that part of the use of funds is hiring more personnel. So we expect to hire 10 to 15 more people. Wow,
+
+Nico Johnson  1:04:49  
+doubling. Okay, so, how do you get from here to there as a CEO as a leader, what are some of the management challenges you've run into and how are you Managing yourself through that process of learning to build out a team and delegate. One
+
+Speaker 1  1:05:06  
+of the biggest lessons learned honestly is, you know, especially in like a corporate environment, you hear people talk about mission and culture and kind of roll your eyes, but it is so damn important. When building out, especially a small startup team, everybody has to be bought into the mission, which ours is waste reduction. Yeah. And we've got our core values, which again, from you hear that in a corporate environment, roll your eyes, but it's true. Like, we, it's authenticity, it's having fun, it's innovating. And we hire, reward and fire if we have to, based on those permissions on core values. Yeah. And is there a vision
+
+Nico Johnson  1:05:40  
+that's separate from the mission? In that regard?
+
+Speaker 1  1:05:42  
+We have. So we actually use I found it immensely helpful for the business. And this is kind of a whole nother tangential storyline. But late 22, we're on September 8, is actually already plus that year. I kind of felt like we had the squirrel syndrome. You know, it's like every meeting, it's like, well, what about this? Or what about this? And I was like, we really just need to need to hone this in and get, like, what is our marching orders? What are we really working on? Yeah. And I found this system, which in the entrepreneurial world, isn't that uncommon? I think a lot of people know about it. It's called Traction. Yeah. Yes. I Gino Whitman. Yeah. And we sat down for several days before our E plus, it was very long week, when you add it all together. I think we've dedicated three days to really just kind of did
+
+Nico Johnson  1:06:32  
+you hire an implementer? No, no,
+
+Speaker 1  1:06:34  
+you did it. Not yet. Yeah. So blank slate, we kind of started fresh, like, where do and the key to that I almost look at it like a funnel? I don't remember if they describe it that way in the book or not. But what what that book makes you do is a establish that mission and core values. Yeah, like, and we spent a lot of time coming up on what like what those truly should be. And that kind of forms the overall mentality. But then you build the 10 year 10 year plan, and then a three year vision, I think it is, and then a one year, and that it gets more and more specific as you get closer today, right? And that really set us and then the final one is you set quarterly rocks or goals, and that really just kind of like realign the crystalline. Yeah, it did. So that was how
+
+Nico Johnson  1:07:22  
+many people were there at that time?
+
+Unknown Speaker  1:07:24  
+Five or six? Wow. Yeah,
+
+Nico Johnson  1:07:26  
+yeah, that's really I mean, it's really prescient, that you at that small of a company, relatively speaking, yeah, we're like, look, let's get this right. Now let's plant the seed. Frankly,
+
+Speaker 1  1:07:35  
+I wish we would have done it, you know, a year or two sooner, but I've told people I've I've just friends that are starting businesses, you know, trying to partner up with people and get things off the ground. And like, Yeah, you really should read this book. And oh, yeah, implement it now. Yeah. Because those conversations and the results of those conversations, like if they're not, if you guys aren't aligned, it's a hell of a lot easier to determine that. Yep. upfront, have a hard conversation and say, This isn't there's
+
+Nico Johnson  1:08:00  
+three books and you're probably getting ready. Like it's kind of up to, it's like getting started up to about 10 million, it's traction, traction, and then from 10 million to 100 million. It's a book called Scaling up by Vern Harnish. If you want to talk about his three books, and then from 100 million and Anon, there's a book called Three hag way that you probably haven't heard of three hag way. And three hag ha Jg. And it's like the canon of like, scaling to 100 million got, and I've, in the coaching world, like it's fairly well known, but I've engaged with a lot of different folks. I'm gonna have Maria Kingery, from Southern energy management, co founder with her husband, Bob, she went off and started coaching for the last few years all as an implementer. For Yeah, for EOS. And she's now on her own, like, kind of made a blending make kind of a blended philosophy. Yeah, like a bit evolved from EOS. But it is remarkable to me that the number of founders I've met who when you you almost can identify them. It's like, Oh, this guy, this guy or this girl? Are their their EOS acolytes. Yeah, you know,
+
+Speaker 1  1:09:09  
+as soon as you hear someone say that word rocks, you know, like that? Yeah,
+
+Nico Johnson  1:09:12  
+that's one of the that's one of the clear, clear indicators, totally.
+
+Speaker 1  1:09:15  
+But the other thing that that whole system helped to do, because of the mission and core values is, is we've built out an like, my team is awesome. I love the people. And what's critical to us the next step to to get us to that series A is we, our team is just fantastic. And I truly feel like I have a team that I can put trust in. And we're to the point as a company, which feels really cool. Just for the record for entrepreneurs, CEOs out there, when you get to the point where like, things just happen. Oh, yeah,
+
+Nico Johnson  1:09:46  
+people are working on stuff you didn't
+
+Speaker 1  1:09:47  
+know. And it's like, wow, you guys are doing that. That's awesome. Yeah. And so just having that faith in my team and knowing that like, I can focus on the funding now and really hammer this Do you remember as earlier rounds it was like I'm trying to fundraise do this and this and it's just are you more
+
+Nico Johnson  1:10:02  
+of a visionary? Or an architect? Or are you both?
+
+Speaker 1  1:10:05  
+I? I want to say I'm more visionary. But as an engineer, I think I tend toward, you know, more of a execution guy. Sure.
+
+Nico Johnson  1:10:14  
+But But clearly, if it's working for you now and you're out able to focus on the money, then you've got an arc. You've got to a hands on person on your team. Yeah. Yeah. Which is that person?
+
+Speaker 1  1:10:24  
+Well, Vanessa, you just met her today? She is she's our head of marketing. But she is, I mean, in startup world, right? You wear a lot of hats. She's, she's definitely I can always count on her to just dive into whatever it is,
+
+Nico Johnson  1:10:36  
+is there anything in terms of the vernacular that you use in the way that you try to educate your customers that you just wish everyone better understood, so you don't have to repeat it in every meeting? The
+
+Speaker 1  1:10:48  
+first thing that comes to mind when you say that is I have to catch myself when I'm talking to outsiders. EPCs, not EPC investors, VCs? Funding guys, and I always talk about modules, and did what the hell module is. So I always have to make sure that I'm explaining things in terms of what people not in the industry. Yeah, right. So it's a solar panel. What's a what's a gigawatt? Right. Right. If you're not in power, you know what that means? Yeah, there is definitely when I'm going out for third party funding this like bridge I have to build in terms of
+
+Nico Johnson  1:11:25  
+everyone to think about, yeah, you've shared a lot about sort of lessons learned. Is there anything that was given to you wisdom, that someone who mentored you that you now have internalized and would pass along as advice for entrepreneurs?
+
+Speaker 1  1:11:40  
+You know, one thing our sales director Craig, Craig Morris has always said is just do what you say you're gonna do. Yeah. And that's so simple. But it's so poignant and so important. And it's not just as an entrepreneur's not just to your customers, it's to your game to Yeah, it's to your investors. Yeah. And there's a lot of people out there, you know, especially an entrepreneur world that will just say, whatever the hill, they want to say, relax, whatever sounds good. Yep. And that's a very quick path to failure. In my mind, it's,
+
+Nico Johnson  1:12:13  
+I love that you bring that up. I've shared a number of times, one of the guys that I admire is Tim Davey, he started a company that I worked for Davey roofing, which was dri. And I remember sitting in the first day onboarding as an employee, and you go through the company, but it was the first time I'd been in a company where there was like, core values and whatnot. And it was a really weird experience, right? I was like, I don't understand this. I'm watching a video. It's like the core values. And the very first core values, do what you say you will do, really, it's
+
+Speaker 1  1:12:42  
+important. I mean, as soon as you start, you know, inflating things you say or not delivering to customers, or you make promises to your team and don't follow through like that trust breaks down very quick. Yeah,
+
+Nico Johnson  1:12:55  
+it's a it's a it's a, we have kind of going through the EOS process informally with SunCast now and yeah, on my very short list of values that are concrete that will like will be documented for the company is do what you say you will do.
+
+Unknown Speaker  1:13:10  
+Yeah, I love it. I love it.
+
+Nico Johnson  1:13:12  
+So how do you outside of the PB palette time? How do you sharpen your mind? How do you spend your time? Oh, man,
+
+Speaker 1  1:13:20  
+my passion is backpacking. Yeah. Yeah. Like not like not like through Europe kind of back but like mountain. Yeah. out in the woods. Where do you like to go? I love anything west of the Rockies. Yeah, yeah. Love it. Love it out west. There's just so many beautiful vistas and mountains and bravery ever is there?
+
+Nico Johnson  1:13:38  
+Is there a place that if if you wish that you would say, Hey, if you are at all interested in backpacking, you don't have to be an expert. You should be a little bit more than a novice. Yeah, this is a place you have to have on your bucket list.
+
+Speaker 1  1:13:51  
+So the Cascades in general, I like that gorgeous. That's in Washington, Oregon. Okay. The mountain range up there. Kathy utiful, the Cascades but if you were to do one hike, and it is a I mean, it's tough. It's a lot of miles lot elevation, but it's doable. It's called the enchantment, enchantments. It's in the Cascades. You you drive to town called Leavenworth, which is also a super cool town. It's like it basically. And this is in Washington. Okay. It basically looks like if you've ever seen Frozen or it looks like this old like I like Scandinavian village No. And they have a German surrounded by water. Not the village but yeah, it's all frozen. There's a princess and but now just a cool town. They have Oktoberfest like Yeah, the whole it's like a very German Scandinavian type place. Sure. So zere there, but the hike is a grueling hike, like up all these switchbacks. But then you go over the paths and you crest the hill and it's just like a wonderland up there. It's an insanely beautiful, and we actually did it in September, which instead timber. There's these trees called marches, which I had never heard of until I went up there. They look like pines, right? They've got needles. Yeah, kind of spindly. But they turn this magnificently beautiful golden color every fall and they actually drop their needles. But if you time it, so you're there and the needles are golden, golden. Whoa, yeah. And you've got these crystal blue alpine lakes and these snow capped mountains surrounding you. It's just like another world. But that is, that's hands down. My favorite hike I've been on and it's a day hike if you're ambitious, but I just love getting out and being self sufficient. Getting off grid the connecting like there's no way you're totally disconnected. There's no way to reach out there. And, you know, from my standpoint, like environmentally, like you're living out of your backpack, and at the end of the week, Ziploc bag full of trash. Yes, he's
+
+Nico Johnson  1:15:55  
+taking it back because you leave it as I am, of course, but
+
+Speaker 1  1:15:58  
+the fact that you know, it's called again, the the hike, yeah, the enchantment enchantment
+
+Nico Johnson  1:16:03  
+so I'm going on the agenda to I'm gonna go overnight, very good. I'm not taking I'm taking my lightweight backpack 30 pounds, and I'm gonna 25 pounds and I'm gonna lightweight go up and camp overnight. What book Am I taking with me? Oh. Besides traction, man, if
+
+Speaker 1  1:16:22  
+you want to go dark with it. I really liked the road. The Road by Cormac McCarthy the road Yeah, it was actually made into a movie with the guy that played Aragorn and Lord of the Rings. He or Vigo warrants and Dona anyway, it's about a it's like post apocalyptic dead son. Okay, that are trying to get to the ocean like the world's in total disarray. And I think I've seen this movie. I haven't seen the movie. I've seen the books. Fantastic. The road Yeah, the road and whose advice Cormac McCarthy Cormac? Okay. Yeah. It's just a great story. And it's if you're into that kind of stuff, though. It's a really well liked Dad and son story too. I love if you want to be productive, like a self help workbook. The comfort crisis, the comfort crisis. Okay. It's all down actually. It's all about how basically the way we live is not the way humans have evolved to live. And getting out of your day to day comfort zone. Just basically can't remember how you keep talking. Yeah. But it's just all about getting out of your comfort zone and how basically it can extend your life and broaden your mind Michael Easter. Yes, that's what Mike lessor. Yeah. And to be fair, I might connect with him more because there's kind of a side story in there about this guy who goes on this Alaskan expedition to handle nowhere so I totally connect with it but it just it really opened my mind to like, just get off your ass and go push yourself to do new things. That's how life flashes you buys if you just start doing the same thing day in day out like you gotta push
+
+Nico Johnson  1:17:55  
+I don't know if you follow Jesse it's learning. I don't know. Okay, Jesse Itzler is Sara Blakely is husband. Oh, Sara Blakely from Spanx. Yeah, they both are ridiculously successful entrepreneurs. He goes through a whole like annual planning process, which is fantastic. I'll share it another time with you. I'll send you there he actually has a video on YouTube that you can look up in your egg look up. It's planning your 2024 24 minutes Jesse Itzler just look it up. We'll link to it in the show notes. It's fantastic because he talks about the the methodology he goes through to plan a year so that you accomplish shit in your life, not just in your business. Okay, I love that. I love that Do you have any rituals or habits that like in that in that you instill into your daily just to try to show up better
+
+Speaker 1  1:18:37  
+this this I didn't know that it was called this or you know if it is even truly called this but in that book, they put a name to and it's called a miso year. Yeah, it's there talks about this. Yes. And that's This is awesome. I wouldn't say it's like a day to day ritual.
+
+Nico Johnson  1:18:51  
+So always have so it's like, it's a big thing for the year. Yeah. Right. And
+
+Speaker 1  1:18:55  
+and it's, it's something that pushes you and
+
+Nico Johnson  1:18:59  
+I'm going to start asking this question of you what's your Muskogee and that's fine.
+
+Speaker 1  1:19:02  
+We're always we're always planning the next trip. So as soon as we're done with one of these backpacking trips, we're like, trying to plan the next one and we're always pushing it harder and farther, right? So okay, anyway, that's kind of my rituals. I always have to be like have something and yeah, achievable near midterm that I'm working toward
+
+Nico Johnson  1:19:22  
+the it's funny because I know it's a Japanese word. And I always think now gi I'm like notes I gotta play my yo Nagi so how we're gonna get a sushi? Alright,
+
+Speaker 1  1:19:32  
+so my latest was I ran a marathon for the first time yeah, my 40th birthday. So that was kind of just randomly, I was like, I'm gonna I found out the St. Louis marathon was on my St. Louis or on my 40th birthday. And I took that as like I have to design Yeah, totally sign so yeah, next after that. We're gonna mean the guys I do these trips with we're gonna go summit Mount Rainier, which is the tallest these guys and they're actually from CDM Smith guys I worked with for a very short span of time. I'm in Arizona. Yeah. How many? Just two guys is the three of you? Just we have a core. We always we call ourselves the Donner party. Because people always come with us. Yeah. Then they never come back again. That's hilarious. Yeah,
+
+Nico Johnson  1:20:11  
+well sign me up. I'll get one of the total event. Yeah, that sounds fantastic. I'm sure somebody's gonna want to reach out to if they're so inclined. How do you like to be found? LinkedIn
+
+Speaker 1  1:20:20  
+is great. You can always reach me PV palette.or pitch wars with no t at PV palette.com Sch. W AR ch. AR ZP. Schwartz at PV thought.com. Schwartz. LinkedIn is always easy. So you know, that's that's a good spot to reach me. I get a lot of spam on there. So I love it. You got to make sure you shout out SunCast when you reach out
+
+Nico Johnson  1:20:43  
+That's right. Yeah, just I heard you on SunCast just wanted to know if I could pick your brain. Never say that ever. Don't say pick your brain. No, don't want to pick our brain. My brain has been picked thoroughly. Are Phillip as we wrap. I have a two more final questions for you. The first is if you could leave every person that you meet with one thing, feeling and an idea. An inspiration, what would that be? Can
+
+Speaker 1  1:21:10  
+I get candy to the first just goes back to what we were just talking about which is always be pushing yourself. Just don't let life pass you by it's it's short. And the older I get and some people say I'm not that old. Sometimes I feel old. And some of them don't. But you know, it goes fast. Especially when you've got kids like I have three kids and seeing how fast that's gone by it's like it's over in a blink. So always be learning and always be pushing yourself. That's number one and two is just leave the world a better place than then then you are today
+
+Nico Johnson  1:21:43  
+leaving this race actually leave a trace hopefully as an entrepreneur but yeah, better Yeah,
+
+Speaker 1  1:21:47  
+but it's the single single use mentality of our culture today is just frankly despicable. I hate it and we can do better yeah, and and that is that culture has really only taken all a carry a bottle. Exactly. Yeah. Got one here to love it. deliriously
+
+Nico Johnson  1:22:05  
+they're both Meyer burger bottles. I love it. He was like promoting Meyer burger.
+
+Speaker 1  1:22:11  
+But that the whole single use culture really, it's new. It's not that old. It's maybe a few decades old. And yeah, we can shift back to the way it shouldn't be. So, you know, think about the waste you're creating. I live and breathe it every day now. And I'm very self conscious about about waste in general. So once you start thinking about packaging, and just crap, you're just thrown away for no reason, like, do better.
+
+Nico Johnson  1:22:34  
+That's all. Final question. What will it change as a result of the work that you're doing?
+
+Speaker 1  1:22:38  
+We are going to eliminate literally billions of pounds of wood waste from landfills, and billions of pounds of solar panel breakage waste, we will make this industry better, greener, more sustainable and more cost effective in the process.
+
+Nico Johnson  1:22:58  
+From your lips to God's ears, let's see it happen. If you are watching and you want to change the way your product gets to site and the waste stream that results from it, please reach out. Phillip Swartz is the co founder and CEO of PV palette. It's such an honor to have you on the show. It's so thank you for coming in to Chicago. I know that you're enroute to San Francisco, dropping into the Midwest solar Expo while we're hanging out here for us to do this interview. It's great to see Absolutely,
+
+Unknown Speaker  1:23:26  
+thank you very much pleasure.
+
+Nico Johnson  1:23:27  
+If this is something that really inspires you, we have more than 700 episodes like this that I hope you will dig into thank you for sticking around all the way to the end, I love you you all the way to the end episode listener you. And I want to just encourage you please take a moment go check out the show notes. There's a bunch of stuff that we referenced in this episode. If you're watching on YouTube, it'd be down in the description. But I want you to continue to dig in and learn which is why I hope that you'll subscribe to the podcast or subscribe to our YouTube channel, wherever you are. And if you're on YouTube, please smash the like button. That's how the YouTube knows that we're doing something that is relevant because people like you have to tell them because I can only do so much on my side. So please help us with that. And lastly, I want to thank our sponsors who make sure that the only thing you have to pay is your attention. They take care of the rest they pay the bills around here so that you just have to show up and learn and enjoy hope that you have enjoyed I thoroughly did enjoy this episode. Thank you, Philip. Thank you, Vanessa and the team that helped make this possible. And of course, thank you for taking time to be here with us. Remember you are what you listen to. Thanks again for showing up solar warrior. It's half the battle
+
+Transcribed by https://otter.ai

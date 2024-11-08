@@ -1,0 +1,91 @@
+Speaker 1  0:00  
+For the first few years, even before the name Evelo existed, we had the mission to build custom made product for the grid. So we started to resolve the grid challenges of tomorrow years before. So I think that the way they are integrated, the way it's it's state owned, they had the ability to build that expertise before others. One
+
+Nico Johnson  0:22  
+of the things that makes our transition to a robust renewable energy grid possible is our ability to absorb renewable energy at a time when we can't use it. Batteries are the key to our success there, and today, we're going to talk with one of the leading battery manufacturers and the guy who is leading the charge in the sales department over at evlo, for those who are unfamiliar, evlo has a deep history and tradition at a company called Hydro Quebec, our friends to the north are the largest renewable energy provider in North America. Hydro Quebec, given their vast quantities of hydro power born in the name I'm joined by Martin reo. Martin leads the sales and business development for evlo energy storage. Today we're going to talk about how evlo has was born from this deep heritage and research development and utility experience at Hydro Quebec. Welcome to the show.
+
+Unknown Speaker  1:23  
+Thank you so much Nico for having me here.
+
+Nico Johnson  1:24  
+You know, Martin, one thing that stands out for me as someone who has been in the industry for 20 years, I can appreciate the decisions that we make in our career that often can be very pivotal. They can change where we live. They can change, you know, how we interact with our families and our colleagues. You were a partner in a very well respected engineering firm in Canada where you were in charge of renewables. You basically were the top person in this organization, leading the renewables division. It takes a long time to achieve partner status in many of these engineering firms, yet you made a critical decision to step out of this essentially tenured position, like the equivalent of a tenured position at a at a university, to step back into that of an entrepreneur, effectively at a startup. What was it about the pull of the battery sector in general, and evlo as a company that convinced you to leave this cush position and jump back into the startup world. I
+
+Speaker 1  2:21  
+love the Kush position. Thank you for reminding me that. But in the end, you see the growth trajectory of the of the storage. It's just phenomenal. And being in a firm where obviously renewables growing, we saw that like storage was to be booming, and at one point in time, I wanted to be much, much closer. I mean, if you I mean electrical engineer by trade. So storage is like the unicorn of electricity, when 20 years ago, we were talking about it. So combine that plus a local aspect to the job that was offered at that point in time, and the gross possibilities. To me, it was something to be tried. And I guess if we were to raise a ask like a homemade survey here, I think pivotal changes in career is something that is we need to embrace at one point. But choosing renewables, choosing storage, is definitely a cushy choice in some in some ways more today than it was before, but certainly,
+
+Nico Johnson  3:22  
+yep, and you and you chose evelope, I believe, because it is, it is being birthed out of a very stable business. I think that there's probably a lot of folks in our audience here in North America who maybe are unfamiliar with Hydro Quebec. Talk a little bit about the legacy or the history. Give us a history lesson, if you will, of Hydro Quebec and its role in the Canadian energy sector. So
+
+Speaker 1  3:45  
+you made me do some homework. I guess trying to compare hydro to a US utilities is a bit hard, because compared to a state owned type of fully integrated utility, so there's not too many. Imagine a Southern Company, for example, for like, state owned, yeah. So it's massive. We talk about 200 terawatt hours of sales of electricity per year, 40 gigawatt of installed capacity and 20,000 plus employees. It's it's a big thing when, like in Quebec, it's hydro is definitely the big thing. So going and joining in the booming market, choosing a company that is that solid with that history, was really a no brainer.
+
+Nico Johnson  4:28  
+Is there anything in particular that Hydro Quebec, from an infrastructure position, brings to the to the marketplace that you as someone in Canada who kind of understands the lay of the land, felt gave you a whole lot of confidence in the technology. Technological advantage,
+
+Speaker 1  4:43  
+yep, the way, they are fully integrated. If you when we think about it and we take a step back, they totally are able to identify a need like deep into their grid and justify it. So for the first few years, even before the name ELO existed in. We had the mission to build custom made product for the grid, so we start to resolve the grid challenges of tomorrow, right years before. So I think that the way they are integrated, the way it's it's state owned, they had the ability to build that expertise before others. Indeed,
+
+Nico Johnson  5:20  
+and indeed, Hydro Quebec has a pretty deep research and development team. What are some of the initiatives that have spawned technology out of the research center? Well, it's
+
+Speaker 1  5:30  
+quite amazing, and we're fortunate enough to have our offices right on the campus. Yeah. So we're every day we drive to work, and it's we're the best environment you can dream of. And while the eye voltage lab is one example where they test up to a million volt equipment. And they invented a seven, did you say a million? Yeah. So it's, well, it's massive building. You can it's bigger than this place, for sure, but, but they also invented, like, a 735, KV class. So they built stuff from the ground up for decades. So it was just making sense to build a other innovation along the way.
+
+Nico Johnson  6:04  
+Yeah, one of the innovations along the way that people probably don't realize is that Hedrick Quebec was one of the early pioneers developing and patenting the lithium iron phosphate LFP batteries that we all kind of take for granted now as the as Iron Horse, like the lead horse in the race, as it were. It wasn't always that that way. And I recall very well, you know, the conversation around lithium ion, lithium ion, around iron phosphate and different other chemistries in the in the late 90s and early 2000s Hydro Quebec was really instrumental in developing LFP as we as we know it today. Could you talk about how that pedigree, that history of research and development LFP, led to ultimately launching Evelo, absolutely,
+
+Speaker 1  6:43  
+and I have to say, I plead guilty as well. I didn't know all about that, because it's not necessarily super public about those research and those 800 patents, for example, but really the fact that they have developed and commercialized the LFP, yeah, gave us, at the time, a leg up to select who's going to fabricate at that specific specification and performances, so being able to fully understand the electrochemistry in it, yeah, but putting into a ready to commercialize a product, because we're no more R D phase, we need to be commercializing stuff so, but using the deep knowledge was, was really the way we we use the research lab? Yeah,
+
+Nico Johnson  7:23  
+I think it's really important that you mentioned the term commercialized. I mentioned, I said patent. But obviously, LFP was patented at the University of Austin in the early 90s, and that commercialization process is one that is, it leads to manufacturing. It's something will also is often in the news today, but I wonder, after 20 plus years of that commercialization process deciding how and where to manufacture the product, how did folks at headquarters in Hydro Quebec actually know that it was the right time to spend this battery platform out as a standalone business? So
+
+Speaker 1  7:59  
+you're right to say it's a specific point in time where the project justification were making sense. Yeah, the product were at the maturity stage where it was making sense to build the large scale, and they were identified needs on their own grids as well, and beyond frontiers as well. So at that specific point they said, Well, no more r&d. Build a product like is appealing for utilities and sell outside. So at that specific 2020, we launched evlo. But the mission was really to go from an r&d stage to a fully commercialized product. So it happened at that specific moment.
+
+Nico Johnson  8:38  
+Well, as a best company born out of utility. The advantage of primary research being the fact that your number one customer, your most important customer, is, in fact, your parent company. Could you talk about, and you mentioned your your company offices are right there on the on the in the headquarters, uh, facility. Talk about that proximity to your top customer, and the impact on product development that
+
+Speaker 1  8:59  
+it has. So the impact on product development is a is phenomenal in a way that, you know, utilities are more conservative in many aspects. So the bringing the de risking mindset, the expertise and technical technical expertise mindset is is a different ballgame in an industry where it's a lot of putting batteries in boxes. It's a lot of a pure commercial play. But in the end, we're trying to solve, like a very difficult equation, the energy transition. Yeah, so you need to more know more about what's the end result. End result is decarbonizing a grid and making sure that storage is really leveraging all of its attributes to the mix. Yeah, it's
+
+Nico Johnson  9:42  
+interesting. I think that one of the keys to success for you all is, in fact, this, not just having a utility as your parent company, but being incubated inside the utility, being on the campus, and be able to reach across the aisle, as it were, and interact ask these critical questions around product development so that you can iterate. Quickly, what do your customers see as the advantages born from that pairing and how it's how is that communicated to the marketplace?
+
+Speaker 1  10:06  
+So there's one common element I see in customers today trying to build projects Well, the products themselves are evolving. I mean, obviously density is one metric. There's many others, but in the end, they need to keep up with their team. With the fast paced technology evolving, we need to take this this fast pace. They need to connect it to a grid and equals reliability in the end. So really, what we bring probably what speaks the most out of a utility speaking to another is connecting fast, evolving technology, de risking it with our skills and putting it to market so it's gonna work, right? So that specific element is really unique at this point,
+
+Nico Johnson  10:55  
+one of the things that utilities have to sort of require and prioritize ahead of all the things is safety. And I would imagine that safety is, in fact, paramount for Evelo as well being that you get, you get this first this first hand experience. How is that increased the overall sort of reliability or safety factor of about of the battery as a product? Well,
+
+Speaker 1  11:19  
+I'm not sure who, who's really knee deep in the storage and on the floor today. But really, how fast those standards are evolving on safety is just crazy. But again, these standards are table stake today. You need to go to the market with a solution. Has to be certified UL 9540 name it. I mean, there's a whole list. So the, I think the expectation in the industry for everybody, like, even if you're born out of a utility or not, is there having that extra care about, let's say, how to integrate, and that the depth to which we go to de risk, not only the product, but the project, is probably making the difference in the eyes of many Well,
+
+Nico Johnson  12:02  
+let's talk a bit about the different points of entry for complexity in these projects. Obviously it requires many different electronic assets, from PLCs to real time, device servers, computers, switch firewalls. Every grid connected device in a storage unit represents a potential entry for cyber threats. How do you handle that?
+
+Speaker 1  12:23  
+So the way we handle it is, you talked about our campus, and we call it the test line. I mean, we'll find a better name, I promise. And maybe take note, we'll do better. But the test line is really a real size site that we have on a real grid, and we cannot disturb anybody. I mean, we cannot cause an outage or anything. But we are testing real life equipment with real scenarios. So in the end, cybersecurity is also something we're going to test. So we're bringing the full real life equipment that would be installed to a site, and we do a penetration test, for example, we're going to do assessments right in our yard before shipping it the site. So it's all about anticipation. I'm sure. If you asked the IPPs on the floor today, a schedule is critical in like, in every case, yeah, putting cybersecurity in a box later at commissioning, it's we all know it's not the right way to do so, we bring these topics way up front. We de risk it on our test line, and we bring customer
+
+Nico Johnson  13:28  
+you mentioned, de risking so along the way as well to be able to test and and quickly iterate. There's a lot of manufacturing components that go into it. Obviously, domestic manufacturing is a topic du jour. Do you talk a bit about that critical path issue as it relates to evlo and how you are de risking that pathway for your customers?
+
+Speaker 1  13:48  
+So we direct the pathway in. I'd say the de risking the pathways with the with our customers is transparency. A lot of what we do is being super transparent with the customers and bringing them again, I'm repeating myself on that one, but the bringing them on site, having or offering them the possibility to touch the equipment, testing it, seeing what's behind those sometimes black bucks we hear it in the market is, is our way to solve that, That issue that we see in the market today? Yep,
+
+Nico Johnson  14:22  
+and I understand that a number of your components are, in fact, manufactured right in Canada, and here in the United
+
+Speaker 1  14:28  
+States, we have a strong component. And you know what? It's a domestic content is a table stake today. So, I mean, we it's writings on the wall, it's, it's, it's, it's known, it's being now a criteria for selection, right? So there's no way to avoid it. So we were pioneering in having a strong content, and we want to keep that position as a as a leader, to be having the strong domestic content everywhere we go. So it applies to Canadian project, US project, but also oversee, yeah,
+
+Nico Johnson  14:56  
+well, the DNA of any utility business is one that is concerned. By nature. It's also focused on resource efficiency. I'd love to hear some real, real life examples of the best integration and how it increases efficiency and does reduce those project risks that you pointed out. What are some of the aspects of that DNA that contribute to the overall product development?
+
+Speaker 1  15:14  
+So there's a few aspects. So if we start from the journey of the beginning of a project, the first thing you're going to probably do, and I think the colleague right before here, nurk, I mean, it has to do with application queuing, but we do the extra mile, and we have a full set of hardware in the loop, type of testing. So we we provide the assistance to the customer to help their grid connection with having advanced model, validated model, provided to them, working with them, to have the right application. So the last thing you want to do is to be stuck in the queue somewhere for five years and having to stick with one, one set of data and not being able to refresh it. So we go and we spend more time and effort in modeling. So the modeling side of it is really a bit of a differentiator, and after that, testing it on the test line, but also also going to site and having a more thorough testing protocol. So the DNA side of thing is the way we've been doing projects, even for Hydro Quebec, like we didn't have it necessarily easy. We have to, we had to go the extra mile and prove and demonstrate that our process was, was thorough in detail, so a bit of the feeling of coming to a supplier that is, yes, supplying hardware and software pieces, but that was tested to their needs, and that's going to be, I guess, well accepted and integrated into the real life grid in the end. So even it's an IPP in the end. Again, I sell electron to a utility. It's, it's just a fact. So having that, that full, full way of assessing the the grid and the DNA of the utility via without being one. So you your question was a bit about the nimbleness. So we're nimble. We're separate, even if we're owned by one. But that give us a speed and speed to react, speed to act and bring the best product possible to the market. Yeah.
+
+Nico Johnson  17:18  
+And I see that as one of the key advantages of being able to spin out of the utilities. In fact, utilities are not known for being nimble. They're not known for being hyper proactive. One of the things that is evident is that hydrocopec is proactive in their research and development, and the ability to see the opportunity when it presents itself, and spin the battery company out is, you know, it is part of the innovative cycle of what we're at in the industry. Martin, thank you for taking the time. Thank you so much. A little bit more about the product, bye, bye. You.
+
+Transcribed by https://otter.ai

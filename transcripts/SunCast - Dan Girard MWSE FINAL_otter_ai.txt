@@ -1,0 +1,115 @@
+Speaker 1  0:00  
+We built a substation in Kansas in less than six months. That was a couple years ago. That foot equipment was more available, but we did build that substation less than six months. If you used one of the larger firms, you would have been probably a year and a half to two years to get it built. We
+
+Nico Johnson  0:15  
+are live at the Midwest solar Expo. The Suncast Media Zone is brought to you by solar simplified. I'm your host, Nico Johnson, and I'm joined today by Dan Gerard, the founding partner and CEO of alternative power generation. Dan, good to see you. Nice
+
+Unknown Speaker  0:30  
+seeing you. Nico, absolutely, I've
+
+Nico Johnson  0:31  
+been wonderful. It's been a little while since we've had a chance to sit down. Yeah, we
+
+Speaker 1  0:35  
+were talking about that earlier. Yeah, a couple years since you and I been together. It has been,
+
+Nico Johnson  0:39  
+Dan, since that time, when you were at the time, running the entire EPC group for a well known electrical firm called SNC electric, you and several of your colleagues have stepped out and formed your own company. Tell me a bit about that decision to leave SNC and really focus on building what is now APG as an EPC company,
+
+Speaker 1  1:01  
+yeah, we we basically are heading different directions. SNC is a great company. We enjoyed working there for many years, but over time, they wanted to focus more on equipment and less on EPC. The group we had was very much driven to be an EPC company, and we determined at that point in time that we should separate and form our own company and basically go after EPC, focusing a lot on renewables, but also microgrids and also data centers, including substations. You've got
+
+Nico Johnson  1:35  
+four partners. Help Me Understand the makeup of that the structure kind of like where each partner leans in and the expertise that each one brings to the table, sure.
+
+Speaker 1  1:44  
+I mean, we've got, I'll start with the Ali's. I've got two brothers that work with us. Syed Ali s Ali is a head of engineering and is our CTO. And then Syed Z Ali is the head of our estimating group. So it's great when you got engineering and estimating, able to work together. Oh, yeah, it's a rare occasion, by the way. Yeah, it works really well. And then when Ed philnick Is the other partner, and Ed heads up our construction site, and then I'm in charge of business development,
+
+Nico Johnson  2:13  
+all the relationships, Yeah, indeed. Well, I've heard at some point that you guys have more than four decades of experience working with utility, so I'm sure that that comes in handy for the business development side.
+
+Speaker 1  2:26  
+It really does. I mean, one of the things we've done is, through our past history, we've all worked with utility for a number of years, which that plays in well, when you're building like a substation for a utility, or, excuse me, building a substation for a data center or a substation for renewable we've all worked with the equipment, we've worked with the equipment suppliers, and we've worked directly with the utilities. So that helps a lot to have that background when you go to meet with a customer, help support them with the utility interconnect,
+
+Nico Johnson  3:00  
+a question that probably comes up a lot is, why would I work with APG when I could work with a burns Mac, or you name, sort of the Big time, big name, well recognized EPCs, yet routinely, data centers and operators are referring folks To APG. Could you help us understand, unpack that
+
+Speaker 1  3:22  
+a lot of that has to do with we are much quicker and nimbler than people that are large companies. Large companies take a lot of feedback. They go back and forth. We can build items like we did, and we built a substation in Kansas in less than six months. As a couple years ago, that foot equipment was more available, but we did build that substation less than six months. If you used one of the larger firms, you would have been probably a year and a half to two years to get a bill. Yeah, we basically worked with our past history, and we build a lot of equipment that we specify and use to get the results that the customer is looking well, those
+
+Nico Johnson  4:04  
+results are focused in a couple of different areas, but EPC is the main focus of the firm. You mentioned to me that you are focused on data centers and a few other areas. The question that comes up for me as I listen to the experience that your team brings to the table is, well, why not just focus on the thing that you are so well known for, which is substations. You guys are wizards at the transformer side of the business, the breakers. And we'll get into kind of why that is. But why not just focus on that small of that part, that niche, which is a quite lucrative niche,
+
+Speaker 1  4:37  
+you know, the interesting one is Nico. We feel the industry needs more diversity. And when we build a substation, it is a lumpy type process, right? It'll take two and a half years to build, while at the same point in time, we can build a microgrid, we can build solar, we can build battery energy storage systems. Yeah, our team has built battery energy. Storage system since 2006 Yeah, so we've got a lot of experience with that type. So we look at it that a substation is great. We're more than happy to build anybody's substation. We can build, but at the same point in time, we feel for the industry, we can help fill in the other areas as
+
+Nico Johnson  5:16  
+we move forward. Dan, you mentioned doing battery energy storage all the way back to 2006 you've done 26 micro grids as a part of the work that you all have have tackled. Where do you see as the most underserved market right now, with regards to the level of work that you all are doing at EPC, where do you think that there's the most opportunity? Okay,
+
+Speaker 1  5:37  
+if I look at let's focus on solar for one show, solar below one megawatt, rooftops, items like that is a well served market. Yeah, above 50 megawatts, you got a lot of large firms. Yeah, there's a lot of them here. In fact, today, who basically 50 megawatts and larger, they look and they go, I want to build these very large plants. We look at that one megawatt to 50 megawatt as an underserved market. Okay? We try to focus on underserved markets. The other one is, when we look at carports, we do a number of carports for folks as part of a microgrid. Okay, so we'll build a carport, we'll have energy storage, and we'll basically work with the utility to basically build a micro grid for customers that are looking at how they're going to improve the system over time and basically be available even during a disaster situation, right? And be able to come up and run, yeah,
+
+Nico Johnson  6:36  
+for those who are unfamiliar, give us a layman's explanation of what the micro grid is so a
+
+Speaker 1  6:41  
+micro grid is a combination of a utility interconnect, normally some sort of generation, normally renewable piece, and almost always, lately it's included a battery, yeah. So it includes a number of components, and then you got a key functionality that you got to keep a certain load up and running, yeah, and your goal is to keep that load up and running by using a micro grid technology, which is really the software that looks and says, What is the best part to bring in at this point in time, right? And so if I got solar available, for example, you really want to bring solar on first, yeah, because solar is your least expensive resource you can have. Yeah, and then at the same point in time, if it's at the end of the day, you start bringing your energy storage system in, and then last resort is you bring in the utility six. So that's a good example.
+
+Nico Johnson  7:33  
+Where do you see microgrids becoming more prevalent in the marketplace? Is there a particular kind of
+
+Speaker 1  7:40  
+customer? No, you know, that's the one thing that we always say is, if you've seen one micro grid, you've seen one micro grid. And it's really true. I think one of the guys I used to work with, David Keyes, a coin that term. And it is really true that if you've seen one micro grid, you've seen one micro grid. The biggest thing you got to do is sit down with the customer and say, What is your ultimate goal. What do you want happen and where do you want it like right now we're working on one that's on an island off of Maine, wow. And they're trying to figure out that they've got one underground or underwater feeder that comes off the mainland. And if that underground feeder goes out, how they're going to continue to run. How do they run? What do they got? And generators. You know, everyone goes on, just put a generator out there. But in the New World, you want to do as much as you can using renewable source. Yeah, and PV plays in on that. And then energy storage systems support that. And then in the very end, you'd say, okay, fire up the generators. We got generators as the backup. Yeah,
+
+Nico Johnson  8:44  
+so generator is kind of a yes. And part of the microgrid solution, certainly today, a lot of cogen going into most of the microgrids. I've seen one of the areas we talked about, and I asked, Well, why not just focus on substations? You guys are substation experts? Are there particularly tricky, long lead items in the substation world that you guys constantly find customers just relatively unaware and and it's going to trip them up, it's going to slow their project down. What are those items and how do you all address those, those slowdowns? So
+
+Speaker 1  9:18  
+we currently work with a number of clients. I'll focus on data centers, because that's probably the easiest, because they've got multiple sites going in. Yeah? With that, a transformer currently is sitting out over two and a quarter years to buy a transformer and get it into your facility.
+
+Nico Johnson  9:35  
+Two and a quarter, two and
+
+Unknown Speaker  9:37  
+a quarter. Wow. So
+
+Nico Johnson  9:38  
+we're talking over almost 60 months, 60. Oh, no, it's not 60 months, so it's a holiday, yeah, but 22 weeks, jeez, 122 weeks, so it's a long time
+
+Speaker 1  9:47  
+to get a large transform. The other one is high voltage breakers, yeah. And then we normally on the 35 KV side, we build the complete package with the control House Bill. Built out ahead of time, where we can do a fax test ahead of time at the factory, which is basically a test where we run through every scenario, do all the relaying, we do all the operations before it ships to site. We have Q spots with one company that we build those ahead of time that helps us to get everything in in time. Yeah, the high voltage breaker is an interesting one, because we have people approaching us now who are going back into the business of making high voltage breakers, and we're able to get them probably six months earlier than other people are. Oh, wow, because of that relationship, what's
+
+Nico Johnson  10:38  
+the so we've got the substation or the transformer itself, that's on 122 week lead cycle right now, and the breakers, which is a separate Pro, a separate part of the puzzle is how long to
+
+Unknown Speaker  10:50  
+that's normally been 8080,
+
+Nico Johnson  10:52  
+plus weeks. Yes, and you bet you're able to reduce it down to,
+
+Speaker 1  10:55  
+we're able to reduce it down to, like, 40 weeks right now. I
+
+Nico Johnson  10:59  
+was like, so cutting lead times in half. Basically, yes, we are essentially, that's that is phenomenal. Again, why not just focus on substations? It seems, it seems that certainly is a core focus. And I can understand why utilities and and other large scale customers are referring folks to you guys. Certainly, if you have that inside track in it, it allows you to get the foot in the door. It's the old Trojan horse, right? That thing that you get that you have as a strategic advantage that allows you to begin the conversation about, well, we should really be doing the whole project for you.
+
+Speaker 1  11:31  
+Yeah, it really does help if we're building the substation that people look and go, Okay, what else can you guys do for us? Yeah, and a lot of that comes down to BSS systems, battery energy storage systems. I'm sorry, I'm using acronyms. That's all right. And then at the same point in time, we have expertise in that. It also helps with the lumpiness. So a substation is very lumpy when you're building multiple subs. They become lumpy for our clients and for our employees, we feel that it's important that we have diversity. Yeah, of course, we basically break in all the markets. We help people where we can, and build those systems in conjunction with each other wherever we can.
+
+Nico Johnson  12:14  
+As we wrap up, I had a quick question about something I noticed at your booth here at the Midwest solar Expo. It's a napkin that has APG on it, of course. And it says napkins are for doodling. Talk to me about this concept of doodling and how you integrate it into your customer
+
+Speaker 1  12:27  
+experience. Sure. So, you know, a doodle is basically where a lot of things begin. The reason they use the napkin is because a lot of things actually begin at a bar napkin. Oh, yeah, sorry, but it does. People will come and they'll sit down. They'll say, Hey, I'd really like to talk to you about a concept I had. Yeah, and you'll sit down, you'll start talking about, okay, what is the concept? And a good example of this is, I've had folks come to me and say, you know, I've got the utility wanting to build it at 230,000 volts, and then transfer over to 345 we'll design the substation so it's built to 345 standard, but we'll use 230 KV products that helps the client to get it built quicker. But then when the transfer time comes in, we can transfer over little bit like a microgrid. People will come in and say, I want a battery. And you say, Okay, what do you want a battery for? Yeah. And they'll go, I want a battery. So you've got to figure out where the revenue streams are and what is the best way to use that battery system. And we have the people in house to help do that. We have a lot of people I mentioned Syed s Ali earlier. Syed S is a guy who's got a lot of background in micro grids and has built a lot of micro grids, so we depend on him when it comes to helping a client, how they're going to build it, what we're going to build from them.
+
+Nico Johnson  13:46  
+Well, few have had the experience and the depth of Counterparty conversations as you and your team at APG. Dan Giard is co founder partner and CEO of APG alternative power generation. Hope the folks will check out what you do. Thanks for taking time to sit with us today.
+
+Unknown Speaker  14:04  
+Thank you very much. Appreciate it. Nick, absolutely
+
+Nico Johnson  14:06  
+you.
+
+Transcribed by https://otter.ai

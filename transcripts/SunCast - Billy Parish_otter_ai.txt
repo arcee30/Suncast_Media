@@ -1,0 +1,295 @@
+Speaker 1  0:00  
+We designed the industry's first fully Digital Point of Sale credit application process so that a contractor could meet with a homeowner, they could look at the terms of the loan, and they could get through that process in a couple clicks in one sitting. And that dramatically scaled the residential solar industry. So, you know, we have now 4000 solar contractors and home improvement contractors across the country who use mosaics products.
+
+Nico Johnson  0:29  
+10 billion, is that right?
+
+Speaker 1  0:32  
+We're over 15 billion. Over 15 Yeah, in loans funded and loans funded mainly in residential solar. We've made it easy and affordable for people to be part of the energy transition. Billy
+
+Nico Johnson  0:46  
+Parrish is the co founder, Executive Chairman and really, truly an industry leader through having created a company that many of you know as mosaic. Mosaic has many firsts, first 20 year solar loan product, the first to finance batteries and solar roofing products, the first really, across the across the gap, as it were, to attempt crowdfunding for solar at scale, often across the across the front lines, as the first in any industry. Not only are you seen as a pioneer, but you get a lot of arrows in the back. We'll hear more about both sides of that inevitable part of being a founder. Today, we'll also talk about the evolution of the solar industry through the eyes of an industry pioneer who who sort of unwittingly fell into financing solar through his social activism. Billy grew up in the Upper West Side of New York a family of of entrepreneurial minded folks who've helped finance energy for a very long time. So in unpacking the story, it's interesting to see Billy choose his own path. I look forward, as I'm sure you do, to better understanding where this industry is going through the lens of Billy Parrish. I hope that you love these kinds of conversations, and if you do, you're in the right place. If you're first time here, please subscribe to the show. We've got clean energy leaders on the front lines of the energy transition, just like Billy in more than 700 episodes at my suncast.com but for now, want to encourage you to lean in as we turn up your skill. Solar warrior, we're getting ready to dive into another powerful conversation here on Suncast. Billy, it's been a long time coming, but I am truly grateful to say, Welcome to Suncast. Thanks, Nico,
+
+Unknown Speaker  2:52  
+good to be here.
+
+Nico Johnson  2:54  
+I remember. I remember listening to Gosh, eight years ago, Emily interview you, and she joked about, how about your piercing blue eyes? And that's the thing, funnily enough, that I remember when we met at the sustainable brands conference, I think was the first time I met you, and you were speaking at that event, Trina Solar, of all companies, was, was one of the few, was, I think, the only solar company at the event as an exhibitor, and just being taken by you in your 20s as really a standard bearer. You were carrying the flag for the industry at a place that knew very little about renewable energy. We've come a long way. Could you tell me about the influence of your upbringing and your family background and how that led you to some of the to some of the early life decisions that you made
+
+Speaker 1  3:49  
+sure so I had two amazing parents. They instilled in me, I think, a sense of right and wrong, which is kind of the foundation of of my life and all of this work. I grew up next to Central Park so and across the street from the Museum of Natural History. So, you know, a sense of the wonder of the world across the street was the giant blue whale. I remember going there and looking up at this enormous animal. So I think, sort of an appreciation for nature and a sense of right and wrong. And then the biggest kind of turning point into this work was at a place called the Mountain School where I went as during a semester of my junior year of high school, and I read a book called Ishmael, which had a metaphor for where we are as a civilization, where it described us as a machine going off a cliff, and we thought that we were. Lying, and actually we were in free fall, and I remember that moment of realizing the kind of ecological crisis that we were facing was the first kind of big, like moment of transition of like, kind of getting off a pretty standard path that I was on. Did
+
+Nico Johnson  5:19  
+you in your early and into the teen years, have idealized sort of heroes in your life or in your mind, folks that you looked to as.
+
+Speaker 1  5:34  
+I don't know if there were individual people that that struck me. My first thought of a career path was as a kind of muckraking journalist. Yeah, I wanted to shine the light on stories that matter, and so that I loved to write, I loved to read, so that that was sort of the first way I thought about making a difference. And it probably wasn't until college that I got involved in kind of activism as another path for making change. And that was powerful. You know, at at a campus where you had the ability to really change what was happening at that campus. Organized with other students, and I remember working to get Yale to make commitments around sustainable food and purchase Fair Trade bananas and coffee. And you know, ultimately, the food system at Yale became very sustainable. Locals buying from farmers across Connecticut and the region. And so, you know, powerful to see the ability to make a difference. And I think that winning builds on itself right where you start to see success, start to see yourself able to make a difference. And that's really powerful.
+
+Nico Johnson  6:59  
+Were there any early signs of entrepreneurial tendencies for you, not
+
+Speaker 1  7:05  
+as a as a little kid, you know, I did the bake sales and babysitting and but I think the the foundation of it was my parents kind of giving me a sense of confidence that I could do things and yeah, and also probably privilege of having the support system that if I failed, it was not as scary. I refer to
+
+Nico Johnson  7:34  
+it often as being able to fall up. Yeah, yeah. It's interesting to me, a lot of folks this day and age, I'd say sort of Since 2018, 19, it's easy to bemoan privilege, right? Yet all of the luxuries that we enjoy are think about. I mean, even if you don't consider Facebook a luxury, like it changed the world. And the reason that Zuckerberg was able to build Facebook was because he couldn't fall down, right? He was afforded a safety net. Yeah, yeah. And I think that if one were honest with themselves and explored historically, like many of the great pioneers are that way, like there are definitely hard luck stories and people that pull themselves up from from nothing, I wanted to know if you kind of look at your family and think about any noteworthy elements of kind of how your family structure worked, or even the careers that your family chose that might have been influential?
+
+Speaker 1  8:49  
+Well, both my parents were lawyers. My mom worked for Columbia University, and my dad did energy law. So he helped finance coal and nuclear power plants and did some early securitization deals which I didn't understand what that was at the time. And so, you know, I think the only career advice they gave me was to not be a lawyer, and again, sort of to follow my passions. But I think some of that must have stuck in my head. Yeah,
+
+Nico Johnson  9:33  
+when you think now, as the executive chairman, about the nature of the problem or problem set that you're trying to solve. How do you describe that to folks who don't, who don't know what you do?
+
+Speaker 1  9:46  
+My vision has been pretty consistent for the last 20 years, and it's been around accelerating the transition to a world of 100% clean energy for all. Yeah, and my theory of change for how we get there has been to enable as many people as possible to be part of the transition, with an idea that the more people who are benefiting from the transition, the deeper the pool of support, the more people who will be part of driving us there. So it's been about that equity and engagement. How do we reach as many people? How do we make it easy and affordable and compelling for them to be part of the solutions?
+
+Nico Johnson  10:37  
+Does it bother you when people say that you dropped out of Yale? Do you? Do you like it? Are you in that category of folks that's like an entrepreneur, like lots of successful entrepreneurs, dropped out of ivy league schools.
+
+Speaker 1  10:49  
+I think the thing that I'm happy about around that is that I got off the track. Tell me about that. You know, I went to good private schools. I felt like I was on this track to doing, you know, what I was supposed to do, yeah. And I feel like dropping out was a way for me to find my own path, and it was a way for me to pursue my purpose as aggressively and immediately as possible. You know, it came after my biggest wake up around the climate crisis, and I just couldn't be in school anymore. And so I'm proud that I took a chance and started working on something that felt more important than being on the kind of well laid tracks. Can
+
+Nico Johnson  11:43  
+you take me to that point, that point of no return, where you kind of unequivocally knew that you had to leave Yale go do
+
+Speaker 1  11:50  
+this thing? Yeah. So the summer after my sophomore year of college, I got a grant from Yale School of the Environment to study with Rajendra pachori, who was the chair of the IPCC, the International Panel on Climate Change in Delhi. And on one trip, I went with climate scientists that were working with him to the source of the Ganges River up in the Himalayas in India. And the scientists had been studying the glacier for years. This is the source of the holiest River in India, and they said the glacier was downriver the year before and further down river the year before, and that it was now retreating faster than they had predicted, and that the source of drinking water for hundreds of millions of people was at risk, and that summer, there were terrible floods and droughts that scientists were saying were related to climate change. And I'm 21 years old, and saw climate change face to face, and it kind of connected for me how catastrophic the impacts were going to
+
+Nico Johnson  13:04  
+be the choices that we made.
+
+Speaker 1  13:07  
+And you know, it was like a that was my moment of no turning back. It was just saying, This is what I'm going to spend my life working on. And what a blessing to find that at that age knocked out. And, you know, before a lot of people really recognized that as a problem. Yeah, those first number of years working on this were so scary in that we were in the like, alarm bell ringing phase of the work where it was like, we were like, wake up. Like, this is we're gonna consign our future to a terrible path. And people weren't even paying attention. They didn't even realize it was an issue. So that was a really, kind of highly stressful period. It's still scary now, you know, 20 plus years later, but it's gratifying to see people pay attention and all of the progress that we've made, you know, does feel like you know, emissions have peaked. The energy transition is well underway and accelerating. So, you know, we're in a very different period. But gosh, those early years were tough. Was
+
+Nico Johnson  14:29  
+there a moment that you recall that sort of legitimized for your parents this new path? Yeah,
+
+Speaker 1  14:36  
+that was clear. We so I started something called the Energy Action Coalition, which was a kind of youth coalition of 60 different organizations working together on climate and we ran a campaign called the road to Detroit that was focused on getting the major automakers to make more hybrid. Did electric vehicles, more fuel efficient vehicles, and we worked with a bunch of Middlebury kids who ended up starting three fifty.org on that campaign, and they converted a school bus to a biodiesel powered kind of campaigning bus that we toured around the country on this campaign. I ended up taking it to North Dakota, and it was around the time Rolling Stone reached out to me, and they were doing a series on climate heroes, and took a picture of me with with the school bus in the background, and I had a two full page spread in Rolling Stone. And my dad was like, that's, this is cool, yeah, you're onto
+
+Nico Johnson  15:45  
+something can't really argue with. Yeah, right. How did it feel for you? Was it surreal?
+
+Unknown Speaker  15:52  
+Yeah, you know, I
+
+Nico Johnson  15:54  
+was that that was around the same time as well. You were, like, student activist of the year, Mother Jones, like all these things, these accolades, start pouring
+
+Speaker 1  16:03  
+Yeah, you know, I feel like the the mission and the and the drive was so pure that, like, I feel like all that stuff washed over me. It was just Not About That Got it. It was like nothing matters, yeah, other than waking up the world and mobilizing our generation in particular, yeah,
+
+Nico Johnson  16:28  
+one of the things that fascinates me about your story is is one of the core strengths that you seem to have, which is the ability to get people to follow your vision and in numbers that are staggering. Early in what wasn't even a career, you were able to work with folks who now are household names they weren't at the time, and get 10s of 1000s, hundreds of 1000s, millions of people into the mindset like this is something we can work on and we can do something about it. Did you have any formal or even informal training in in building consensus or activism or mix? You see where I'm going with this, I'm curious, like, what about your formal or informal training helped empower that? How much of that was an actual gift? Like, when you think about what you leaned on there, what was the structure,
+
+Speaker 1  17:34  
+no formal training? I don't think. I think it was an instinct around the need to build a movement. I was a student of social movements. I read a lot of King and Gandhi and poor, which, you know, another youth movement from around the world and and I was to my theory of change. It was about, how do we get as many people involved as possible? So I feel like a lot of it was just trial and error. You know, it's like we started the first climate change blog. It's getting hot in here.org. Yeah, you know, trying to we did a music album where we got artists to contribute songs.
+
+Nico Johnson  18:23  
+That was the energy, energy Action Coalition, yeah.
+
+Speaker 1  18:28  
+And so it's been just trying different ways to make it fun and easy and exciting for people to be part of the movement. I think that's been a drive for me. And, you know, I think it, it it also connects to probably my deepest belief, which is that we're all connected, and we're all part of where we're going. And you know that that's where mosaic comes from. It's this idea that we're all broken in some way, and that it's in our coming together that we become whole.
+
+Nico Johnson  19:11  
+I'm curious the shape your career began to take that led you out of energy, Action Coalition into other things. I'd love to know how you met Van Jones, what took you from the East Coast to the West Coast in the days that sort of created the formation of the person that would go on to found a mosaic. Yeah.
+
+Speaker 1  19:30  
+So I worked for four or five years doing youth organizing, coalition building, and towards the end of that, I started getting all of these questions from the young people that I was working with around, how do I build a career doing this work? Yeah. And I also recognized that the energy transition was unlike other social issues that civil rights movement, other social movement. Had to work on where it wasn't just the hearts and minds thing. We actually needed to restructure the entire global economy to solve this problem. And so it needed to involve businesses. It needed to involve markets. And so I got really interested in this idea of green jobs. I kind of brought those things together. There's an aspirational opportunity to actually create more jobs and wealth and opportunity and prosperity as we solve climate change. And that was just like, you know, you can see with my theory of change, how that, just like, brought everything together for me, right? So I got really interested in green jobs and the green economy. And I remember I was living in Washington, DC, at the time, running Energy Action Coalition, and Obama had announced that he was going to run for president. Yeah. And I remember I was taking a shower, and this idea came to me of Obama in New Orleans, announcing the creation of a sort of Civilian Conservation Corps style program to put millions of people to work in green jobs. And Van was one of the first people. I reached out to Joel, Rogers, Bracken, Hendricks, a couple other people, and we formed this kind of group that started thinking about what that could look like. And we created a proposal to create a clean energy core and create 5 million green jobs. And we convinced Hillary Clinton's campaign, John Edwards presidential campaign, Barack Obama's presidential campaign, to all endorsed this idea since 2007 and when Obama became president, he brought in Van as the green jobs are a bunch of that, a bunch of those ideas became part of the American Recovery and Reinvestment Act, which was like a big early shot in the arm for the clean energy industry certainly was. And you know, we never got the like big branded like we wanted people in green hard hats in every community across the country where people could see that government was enabling and supporting people in this way and early kind of green New Deal? Yeah, exactly. And so we never got that part of it. It wasn't at the scale. I think Obama didn't have the ability to do it as big as it should have been done, right? But wasn't important when and and for me, that was also at a time when I was transitioning out of energy, Action Coalition. I burned myself out like I felt like I was carrying the weight of the world on my shoulders and and I fell in love with a woman, wahela Johns, who was part of the Energy Action Coalition, and we started a family, and I moved out to Arizona, and I had a few really wonderful years where we had two little girls. I was able to be very present for their early years. And that was a kind of portfolio era where I was working on a bunch of green jobs, things. I was connecting catalyzing, convening. I wrote a book called Making good that was about making money and doing good, and the overlap of those things and not running any organizations or companies or anything like that. And I tracked all of the different things I was doing. I had a kind of impact tracker Excel sheet, yeah, as a Google spreadsheet. And I was probably working on 15 or 20 different things, and again, not running any of them, yeah, but felt like I was contributing and supporting a lot of different impactful initiatives. And mosaic was one of those that I had started to work on with Dan Rosen, and it just started building on itself. And
+
+Nico Johnson  24:16  
+how did you meet Dan?
+
+Speaker 1  24:19  
+I met Dan actually in New York. I was friends with his older sister, who was part of the Energy Action Coalition. And I think Dan was 16 when we first met, and very radical like, to the point where, as a student activist, I was like the man, like not radical enough, but you know, an incredibly charismatic, visionary guy. And we then connected later in Arizona. He had moved out there after high school, he didn't go to college to work with my wife. And a bunch of the other my future wife and a bunch of her colleagues on activism and work to transition the southwest and tribal economies from coal to clean energy. And yeah, we became very good friends and Mosaic went through a couple different iterations. The first, like real business model we came up with was as a crowdfunding platform for clean energy, yeah, and we kind of figured that out at a social business accelerator program called the Unreasonable Institute, yeah, which is now a global phenomenon, which has supported 1000s of businesses and is an incredible community of change makers. But we were their first class. They were just, they had just graduated from UC boulder. I think they were 2223 years old, and like really figuring out what they were doing. But it was as part of that incubator that we kind of refined our first business model, and we were, I think, the first platform to kind of crack the nut on enabling people to invest in clean energy and earn a rate of return on that investment. Yeah, I
+
+Nico Johnson  26:21  
+mentioned in the intros, like, time of, you know, kiva.org was like the they had done, the they had kind of bushwhacked and cleared the way and proven, like you can raise money to invest in, you know, microfinance in Africa, yeah, for people you've never met. And here I remember when you guys did the project for with Ella Baker Institute, and the work that you guys did with van in Oakland. I was living in Oakland at the time. I remember being like, I want to invest in this. And it already closed. I was like, Oh, I missed it. I wanted to invest in the first crowdsource solar project. There's a fun story about how that project came together. I'd love for you to share.
+
+Speaker 1  27:04  
+Yeah. So we were trying to figure out where to do our first projects. We really borrowed from the Kiva model of make it possible for people to lend money and just get their money back, not earn a rate of return, because that involved a whole lot of securities laws that were complex, took us some time to figure out, and we were struggling. We had some false starts in DC, in Flagstaff, where we tried to develop our first projects and couldn't get them done. And I remember Dan and I were we'd done a workout and Asana at the Berkeley YMCA, and we got out of that, and we were like, trying to figure out, like, is this gonna work? Yeah. And I got a call from van, and he told me that he had just gotten off the phone with Prince the musician, and that Prince wanted to do something around green jobs in Oakland. And Van said, Should we do something together? I was like, wow, where do
+
+Nico Johnson  28:09  
+we put this money? Yeah, exactly. Were you like, witch Prince, yeah.
+
+Speaker 1  28:16  
+And so he had started a group called Ella Baker Center as well as Green For All. And so we worked with the two of those organizations to design this program called Oakland solar mosaic, and we matched $250,000 anonymously given by Prince with $250,000 of crowdfunded loans. And built a bunch of solar projects with incredible local social justice, community based organizations in Oakland. That was how we got our start. Yeah,
+
+Nico Johnson  28:51  
+I can say having been there, like in the room where it happened, not quite in the room, I remember you guys at the time were at working with Emily and spun cube and and it was this exciting time in Oakland where, like, nobody knew where this was going. And the funny part was that everybody real goods, and everybody else, Akina, SolarCity, we were all trying to figure out residential and here you are, like financing, not for profits and commercial buildings, which is just like a completely different like, No, there's no there's no underwriting category, there's no rating system. Do you remember some of those early conversations that help you navigate what's working, what's not working, what what Wall Street will and won't do?
+
+Speaker 1  29:48  
+Yeah. So we took two really challenging problems. One was how to make crowdfunding work, right? We had to spend millions of dollars. With lawyers and figuring out pathways to make it so that people cannot just get their money back, but could actually earn a rate of return, right? So that was a lot of securities law, and we figured out some pathways that that worked for that, but didn't quite scale. And then on the other side, it was figuring out how to do commercial solar finance, which there's no credit scores for commercial buildings, the projects take a lot, a lot of time. They require bespoke negotiations and contracts, and so, you know, we were able to kind of make it work for a couple years. You know, we did, I think 15 million worth of projects from 1000s of investors, yeah, but I think a big lesson from that time was that taking two hard problems is at least one too many,
+
+Unknown Speaker  31:01  
+I think.
+
+Speaker 1  31:04  
+And so I'll never forget, we got a call from somebody at the SEC who wanted to look into what we were doing around crowdfunding. Yeah, and this was at a time when we were expecting the crowdfunding laws to evolve and open up. The Congress had passed something called the Jobs Act, which was supposed to unleash this new era of crowdfund investing. Obama signed it into law, but it just wasn't implemented. Yeah, and the SEC basically had had already enabled prosper and Lending Club to do crowdfunding in a certain way, and they sort of said, we're comfortable with that fact pattern and way that they're doing it. But if you don't follow sort of exactly that fact pattern, you know, we're not open. Was effectively the message that we got. So we had to pivot the business. And it was a double pivot where we said we can't do crowdfunding, so we need to find institutional investors and commercial is really hard. And so we,
+
+Nico Johnson  32:23  
+20 years later, still is really hard.
+
+Speaker 1  32:26  
+I you know, I don't know that anybody has yet cracked the nut on it to do it in a really
+
+Nico Johnson  32:30  
+profitable way, not the way you did in resi, yeah. And
+
+Speaker 1  32:34  
+so we had this brand, we had a platform that could facilitate investors and borrowers. We had a bunch of installer partners, and so we interviewed 50 different residential solar contractors. We brought on a guy named Ben Tarbell, who's an amazing
+
+Nico Johnson  32:53  
+I couldn't believe that when I first heard them, was on your team, yeah, like your project, yeah, yeah.
+
+Speaker 1  32:57  
+He was our head of product, yeah. And so he was really the one who helped us find product market fit for residential solar. And, you know, largely he but all of us, we interviewed all these contractors, and we heard from them that residential was growing, but that the financing wasn't there. Yeah, there was some lease and PPAs that were being developed by Sunrun and SunEdison and SolarCity. Bravo bank at that time was also really trying to figure it out, but most residential installers didn't have financing that they could bring to their customers in an efficient way. The best loan product on the market was from Admiral's bank, and it was like a 12 year product, very clunky process where, you know, you'd have to call them, and it would take weeks the approval process, very low approvals. And at a 12 year loan, people couldn't save money switching to solar. So again, go back to my theory of change, making it easy affordable for people to do it. That was not possible for residential solar, and so we designed a 20 year solar loan product. We had to stretch out the term of the loan long enough so that people could save money switching to solar. And then we designed the industry's first fully Digital Point of Sale credit application process so that a contractor could meet with a homeowner, they could look at the terms of the loan, and they could get through that process in a couple clicks in one sitting. And that dramatically scaled the residential solar industry. So, you know, we have now 4000 solar contractors and home improvement contractors across the country who use mosaics products. 10
+
+Nico Johnson  34:52  
+billion. Is that right? We're over 15 billion. Over 15 Yeah, and in loans funded, and loans
+
+Speaker 1  34:59  
+funded May. Only in residential solar, and we've made it easy and affordable for people to be part of the energy transition.
+
+Nico Johnson  35:08  
+The thing that stands out to me the most about mosaic is those two words, right back to your theory of change. Like the guiding principles not been we want to finance solar. It was we want to make solar easy and affordable. And the vehicle was, well, we got to help them get access to capital. So crowdfunding didn't work. For better or worse, you had built all the tech stack to do crowdfunding. Well, could have gone and competed in any number of verticals. You chose solar. How did you find those early investors who were willing, not crowdfunded, early investors willing to back this idea? And can you talk about the process of trying to standardize the this risk scoring framework for essentially unrated assets? Yeah?
+
+Speaker 1  36:01  
+So, you know, I, I give a lot of credit to Michael Grossman at New Island capital, who was the first one to put capital behind our residential solar strategy. He gave us a small kind of mezzanine loan to start making those loans. Yeah, and, and then a group at partner re, which is a reinsurance company, said, you know, we'd like to dig in with you on this. And we worked with them and designed a credit box and started originating. They started buying these loans. And and then that started to grow. Then we started scaling. And I will I'll never forget the meetings with the rating agencies where we were trying to figure out how to securitize these loans. We said, this is where we need to get to make this really affordable and a scalable financing product, and rating agencies look at data. Yeah, that's how they operate. And we were bringing them 20 year solar loans, that where we had two years of performance history. And so, you know, we had to work with them to say, you know, here's, here's the data that we have so far, but build a qualitative story, looking at proxy right data from home improvement and mortgage and particular, and saying, you know, it should be between these two asset classes, Home Improvement is typically shorter term, often unsecured, but purpose built for a homeowner to make a home improvement, right? Solar should be better than that, right, because it is saving customers money. You know, home improvement loan that customer that's a negative cash flow item for them, right? That monthly payment isn't against anything, whereas residential solar, most of our customers save money, so it's actually cash flow positive. So we're able to say, you know, it should be better performance than Home Improvement, maybe not as good as mortgage, but has a lot of similar characteristics to mortgage and you know, we were able to get, you know, a not very good rating, but a just passable rating, to get our first securitization deal done in 2017 and we've now done 20 securitizations, and it's become one of The biggest sources of financing for the industry. So how
+
+Nico Johnson  38:44  
+instrumental or not was your father's experience in energy securitization as you started to get into this process?
+
+Speaker 1  38:55  
+Oh, I so the securitization deals he did were on music royalties. So it's like, okay, Bowie bond and Metallica, where they would take the expected future royalties from the catalogs of these artists, and they could basically bring forward those cash flows and give, you know, money to the musicians now, yeah, and then sell off the future cash flows, right? Yeah, to to investors. So, really different, yeah? And I think I didn't even understand it. So, you know, it's fun to come talk to him later and say, hey, you know we're doing securitizations now. Sizzle.
+
+Nico Johnson  39:40  
+It was kind of like an afterthought or an a post, sort of like a Thanksgiving conversation. Like you won't believe the kind of stuff that we're Yeah, totally, huh. How interesting. Yeah, I think even I would have assumed that, you know, wonder how, for a lot of entrepreneurs, I wonder. Influential are the entrepreneurs in their lives. I find myself not going to the people that you would logically think I would ask for advice and input from right in the moment where I can most use it. Yeah, it's like when you hoard all those books, and then in the moment that you need to learn about structured finance, you go to Investopedia instead of the books and the professors, it's kind of, it's going to it is, it is an awkward thing like that. What's your learning process look like?
+
+Speaker 1  40:34  
+So my daughters will laugh, because I talk about growth mindset with them a lot. Carolyn Dweck, yeah, thank you. I I'm just a big believer in continuous learning, yeah, and I think I've often learned by doing again. You know, I didn't have any formal training in securitization or finance, but it just learning through conversations, through necessity. And I did a I organized the program with my daughters when they were growing up that we called 52 weeks of learning, which was an idea of us every week picking something new that we wanted to learn, and we would sort of talk about it and then work on it over the course of the week, and then, you know, talk about what we learned and how that went, and what we wanted to learn the coming week, every weekend. And what are
+
+Nico Johnson  41:31  
+some examples of young parish daughters.
+
+Speaker 1  41:35  
+It was really fun when they were little, because the things that you can learn as a as a little kid are amazing. I mean, our minds are so pliable and powerful and, you know, so it'd be things like riding a bike, or, for me, a lot of it was like, I was this. I was a first time entrepreneur. So it's like, how do you do a good board meeting? Yeah. So, you know, it'd be like, I would talk to people I would, you know, go online, you know, because we had an upcoming board meeting, and listen to a podcast or something, and, you know, and it was fun to then talk to the girls, also about, like, you know, that kind of stuff, and retracting
+
+Nico Johnson  42:19  
+your learning in a spreadsheet. Yeah, I
+
+Speaker 1  42:22  
+love Google tools, spreadsheets, docs and yeah, it's fun to look back at those and and talk to them about it. We don't do it anymore. They're they're 16 and 14 now and still learning so much. But got hard to stick with family meetings. And
+
+Nico Johnson  42:48  
+do you still set those goals for yourself on a weekly basis? I still
+
+Speaker 1  42:52  
+have a similar work plan to what I've been using for 1520, years, where I do have weekly goals, and I track those, and most mornings I wake up and I'll look at that, and I'll think about what I want to accomplish that day, and sometimes it's a learning goal.
+
+Nico Johnson  43:15  
+So where do you track that? Now,
+
+Speaker 1  43:18  
+still in I've got a Google doc where I track that, but I find that in the morning, writing down, yeah, the the goals for the day is, is helpful. There's something about the like physical writing of it that
+
+Nico Johnson  43:36  
+that helps in the early days of building a team, building a business, revolutionizing an industry in the way that we were able to offer products and services to homeowners. What were some of the things that you remember recognizing as weaknesses that you needed to strengthen? And how did you go about surrounding yourself with the with that either the learning or the people.
+
+Speaker 1  44:04  
+I think the most important lesson that I learned was the importance of building a great team. Yeah, I love the book Good to Great. And there's a chapter in there called first who, then what. And often, when I'm talking to people who are trying to figure out what they want to do next, I remind them of that, and I ask them to think about who are the two or three people you most want to work with. Start there. Yeah, figure out what you can do with them, together with them, but in the context of a company again, you know, I'm sort of a generalist. I didn't have a lot of the specialized knowledge that I needed, so finding and recruiting people with really deep subject matter expertise to the team was the most important thing. And, you know, I remember, you know, couple years ago. Was sort of looking around and realizing that our leadership team had almost entirely people who had 20 or 30 years of really deep subject matter expertise around consumer lending or building software technology or clean energy or other things and and also people who were mission oriented and collaborative, you know, I just, I love building teams. And for me, that feeling of working with an amazing group of people on something that really matters is is just where I want to be. That's my flow state. So, you know, I feel like, for most of mosaics history, we've, we've had that kind of feeling where just like really good vibes of people being excited to be part of this really important mission, working with really amazing people. And, you know, there's kind of a mosaic diaspora at this point, a lot of people have worked at Mosaic and are now working in other parts of the clean energy industry, and, like at trade conferences, you know, we'll have, like, reunions, and, like, a lot of people come and I think still that's cool. Really valued the other people that they worked with and their time at Mosaic. So I'm proud of that. Was
+
+Nico Johnson  46:27  
+there any particular framework that you found? And I'm asking on behalf of all the rest of us who are trying to hire good people that you found that is helpful for hiring at scale.
+
+Speaker 1  46:37  
+So when I'm interviewing people, I usually spend the first 20 minutes of the conversation just asking them to hear their story? Yeah, so ask, you know, I want to understand where they're coming from,
+
+Nico Johnson  46:51  
+and are there go to questions that you use for that,
+
+Speaker 1  46:55  
+yeah, what's your story? I'd love to hear your story, and particularly the couple turning points in your career and why you made the decisions that you made, and what are you looking for? I want to understand what's important to them, yeah, why they make the decisions, and also to understand the trajectory that they're on. Because we're, you know, even though we have non linear career paths. Often there's there's some sort of direction that people are heading in, there's a purpose, there's a set of motivations that drive them. And so you can usually see that. You see how they think. And then, and then I often will ask, well, sort of, what's most important to you going forward in this next period of life, and and then I try to assess, you know, is that a match for this role that we have in mind for them? Very cool. I heard once also that you want to admire the people, yeah, that you're hiring, bringing onto the team. So that's all often, you know, it's a sort of an instinctual thing that's like, Is this somebody that that I admire? Well, for
+
+Nico Johnson  48:09  
+those of us who admire you, what is most important for you moving forward, you're now executive chairman. You're no longer you're blissfully out of the role of CEO, where you put your time.
+
+Speaker 1  48:22  
+So I think of my purpose as being around two interrelated things, love and climate. And I say interrelated because a lot of my work on climate comes from a place of love, of loving nature and the world, and loving my kids and other people, and, you know, wanting a healthy future and present for all of them, and the love is also love of myself. And I did a year long leadership program called Rockwood that helped teach me. The program was focused on leadership from the inside out, and it's the sort of oxygen mask metaphor from planes, where it's like, if you're not healthy and functional, you can't be a powerful leader in the world. And, you know, I had a almost 15 year run leading mosaic, and that's hard, and I've got some healing to do. So, you know, I've got some self discovery of who I am outside of my family and my work that has been fun. So, so there's some healing. There's reconnection with my family, with other friends, that's part of that as well, and with my role at Mosaic, I'm now executive chairman, and so I'm less involved in the day to day operations of the company, and I'm much more focused on the industry. Broadly, right? And it's really fun, because, you know, I felt like I had gotten into the competitive dynamics of the industry, and I'm now collaborating with a bunch of our peer companies that, you know, our competitors in one way, but in most ways, we're trying to accomplish the same goal and we're facing the same challenges. Feels
+
+Nico Johnson  50:23  
+like you're in that moment again, post energy, Action Coalition, where you're tracking the 15 things that you're contributing to, but not leading. Yeah. What are the most important of those things? Where do you see you can have the most impact in that leadership area? And I want you to reflect on kind of what are the core structural problems that we still deal with that you're trying to address?
+
+Speaker 1  50:47  
+Yeah, so residential solar and adjacent technologies of batteries, heat pumps, uh, EV charging, energy efficiency, are just revolutionary, amazing technologies that are so promising. And I think the single most important thing we can do is to figure out how to reduce the cost. Yeah, we got to just make it as cheap as possible. And the best way to do that is to make it faster right now, to deploy faster to deploy that's where a lot of the additional cost comes from. Yeah. A really useful comparison is residential solar in Australia versus residential solar in the US. Yeah, in Australia, you sign up for solar, it's installed in the next couple days connected to the utility grid, and you're benefiting right away, right in the US. It takes six to nine months, typically after you sign up for solar. That's ludicrous. It's months of permitting, months of interconnection. So the permitting is with the local cities or counties, the the interconnection is with the utilities, and both of those processes take months on average. And so all of that flows through to cost of capital, cost of labor, cost of customer acquisition, and all of that leads to solar in the US being three to 350 A watt unsubsidized, and $1 a watt in Australia, yeah. And so there are a few different initiatives that I'm focused on that I think have real potential to bring down the cost and improve the customer experience for people, again, easy and affordable for people to be part of the energy transition, the first of those is solar app and permit power So six years ago, Andrew Burch, founder of sungevity Now open solar, wrote an article for greentech media that kind of shone a light, a shined a light on this issue, and he basically broke down the cost of residential solar and said the biggest part of this Is the permitting challenge. Just takes months. And so he sort of catalyzed this, and we helped convene this group to create solar app, which is solar instant, automated permitting
+
+Nico Johnson  53:34  
+and equivalent of over the counter permitting for solar. That's it, yeah,
+
+Speaker 1  53:37  
+and that was six years ago. Solar app now has issued almost 50,000 instant permits across the industry. There are over 200 cities that have integrated this into their processes, and two states, California and Maryland have mandated that cities and counties use automated permitting, right? There are six states that have grant programs to support cities and counties to use automated permitting, and so we have a goal to get this nationwide, yeah, and I think this, there is an opportunity and for the whole industry to rally around this work with their local, cities, counties, state legislatures. This is a win, win, win win type of opportunity where it's non political right, like everybody wants it to be easier to build and and we've got very little political opposition around it. So it's just like it's a huge win. The numbers behind it that I think are important for people to understand. I love rewiring America's frame of we need to deploy a billion electrical machines. Yeah, 42% of energy related emissions in the US come from decisions we make at our kitchen table on how we heat and power our homes and how we get around. So the billion machines, it's three, 50 million vehicles and then six, 50 million devices in the home, and that's solar, batteries, heat pumps, smart panels, tops, stove tops, exactly, hot water heaters, things like that. And most of those things require a residential permit, yeah. And for solar, that whole permitting process and the months of delay and time it takes adds sia estimates that it's $7,500 per project and effectively wasted cost. So for main panels, EV chargers, batteries, it's not as much, but still add significant time and cost. So if you think of the 650 million devices in the home that we need to deploy, at least half of those require a residential permit. Yeah. So call it 303 50 million that require a permit at a couple $1,000 of wasted cost per permit. Yeah, that's a trillion dollars of waste in the energy transition that can be solved by automated permitting. So solar app now works for solar and batteries almost everywhere, nationwide, when cities and counties adopt when they adopt it, but we're now we need to get it adopted everywhere, and then we're also going to expand it to include heat pumps and EV chargers. What's required
+
+Nico Johnson  56:53  
+to get these cities on board? What do I need to do in Durham for solar app to be accepted? So
+
+Speaker 1  56:58  
+there are two paths we're working on. One is the kind of ground up getting cities and counties locally to adopt it. And there you need to build a coalition and find a champion, whether it's the mayor, somebody in the building office, who can be a champion for it. Solar installers are great champions, because they're the ones who really feel this pain on a daily basis, where they're, you know, it's taking months. They're the ones who are absorbing these costs. The homeowners who are getting solar also feel it, but for them, it's a one time thing, right? It's like, why did it take me three months to get my solar, or six months after the interconnection delays and all of that? But the installer is dealing with it every day. So, you know, we're really encouraging installers to work with their local mayors building departments and say, Hey, let's, you know, let's shift from this manual, paper based process that to an instant, automated thing. Have
+
+Nico Johnson  57:56  
+you guys put together any sort of a toolkit that we can distribute to
+
+Speaker 1  57:59  
+installers? We have some basic resources. We need to build more of those, but we have some basic resources for that. And then secondly, we're working with state legislatures to pass laws to mandate it. Yeah. So there's sort of a top down and a bottom up approach. It does
+
+Nico Johnson  58:18  
+seem like as well we could correlate the million plus homeowners who have solar through any and solar United neighbors and the installers, right? How do we connect those installers to say, Hey, by the way, let's check in with solar United neighbors. There's probably 100 homeowners in your neighborhood, in your area, that we could get to sign on to this letter, that we get to show up at a city council meeting like that. Yeah, that would be really cool. It is
+
+Speaker 1  58:43  
+really cool. And I'm glad you brought up solar United neighbors. That's sort of the second big opportunity that I see for the industry. So the industry just hit a milestone of reaching 5 million homeowners with residential solar, and solar United neighbors has built a membership organization with over a million solar customers who are part of this organization. So they are organizing those customers to work on net metering legislation, to work on passing solar app in local areas and other clean energy and solar related local policy. Yeah. So they're showing up to Public Utility Commission hearings. They're writing letters to their members of Congress and their state legislators like they're really engaging, because they've got skin in the game. Yeah, right. And again, this sort of ties to the theory of change, the more people who are benefiting from it, the deeper and broader the base of support for the transition will be. So solar United neighbors is just this incredibly exciting opportunity where, you know, we can organize over a million people who are benefiting from it to. Be advocates and enable other people to benefit from it. And you know, we're, I think solar United neighbors has a path to get to over 2 million members this year, and now most of the industry is is actually memorizing their new customers into solar United neighbors going forward. So you know, this is an organization that will add five, 600,000 new members every year and build a very, very large and powerful base of support, coalition, coalition that we've never had before.
+
+Nico Johnson  1:00:33  
+Now it's, it's really cool to see full circle. You know, 20 years ago, the work you did with these students, these early job seekers, who now many of them have solar on their homes. They're part of this, this literal Energy Action Coalition. Yeah, is there anything that you feel like you've still left on the table, still got left to do?
+
+Speaker 1  1:01:01  
+One other important initiative that we've been involved with for a couple years, as it's been in formation, is called recheck, recheck, recheck, and it was, it's being driven by home analytics, yeah, and it's a national registry for solar installers and solar sales people, similar to in the mortgage industry, you need to get a certification and a license to sell to broker mortgages, right? So we're building something similar for residential solar, where that can bring kind of a transparency and accountability to who's selling. Yeah, that's happening in parallel with a process that sia is working on to create a set of standards. So there will be a national set of standards for solar sales and solar installation that the installers and the salespeople will need to get certified and registered, and then they'll be tracked through the recheck registry. And you know, this is a maturing industry, and you know, when there were a small number of installations and salespeople, you know, it sort of didn't matter. States had their own processes for it, but I think we're at a point and at a scale as an industry where having that kind of standardization, having those certification processes, having the accountability for everybody involved, is going to be just a healthy, helpful thing for the industry. So we're a founding partner of recheck. It's going to be a requirement for installers and salespeople on our platform that they're certified, and most of the rest of the big players in the industry are getting behind it right now. I think it's awesome.
+
+Nico Johnson  1:02:57  
+I love that I didn't know about that. I learned something new right here in this moment when you're not thinking about how to save our energy infrastructure. What do you nerd out about?
+
+Speaker 1  1:03:07  
+I love taking my dog for long walks in nature. That's probably that and yoga are the two things that are, I think most helping me heal right now. Did
+
+Nico Johnson  1:03:21  
+you do yoga every day?
+
+Speaker 1  1:03:23  
+Probably every other day. I also take a bath or sauna almost every day, ice bath, no, just warm, comfy bath. And so I'm trying to spend as much time in nature as possible. I feel like that's the inspiration. Yeah,
+
+Nico Johnson  1:03:42  
+yeah. I'm wondering who inspires you?
+
+Speaker 1  1:03:56  
+The work that my wife is doing is inspiring me every day, and it's she runs the wahela John. She runs the Office of Indian energy at the Department of Energy. So she's the point person on supporting the 574 federally recognized tribes in the US to develop their energy vision. So they do funding and technical assistance and policy work to support these tribes. So she's traveling all around the country, meeting with tribes, hearing what they want to achieve, and helping them do it. And it's just unbelievably inspiring work.
+
+Nico Johnson  1:04:34  
+Well, in the capacity of industry ambassador, I appreciate all the work that you're doing. I know others are going to want, in some way, to reach out and follow you. Is there a particular social media platform that you favor? How do you like to be reached? If you are reachable,
+
+Speaker 1  1:04:51  
+billy@joinmosaic.com works. Yeah, I love hearing from people in the industry. And do. Trying to stay off social media. What
+
+Nico Johnson  1:05:02  
+will have changed as a result of the work that you are doing?
+
+Speaker 1  1:05:07  
+It goes back to the theory of change. I hope that millions of people have been brought into this movement in some good way, either as an activist, as a solar homeowner, as an installer partner, who we've supported, an investor, and that then they find their own path to continue doing the work. So, you know, I love being able to sort of support, enable as many people as possible to be part of this good work. Well,
+
+Nico Johnson  1:05:45  
+I am certain that the work that you have done and will continue to do has impacted many people. I am one of them, grateful for the opportunity to get this face time with you. Thanks for Thanks for investing into our collective track.
+
+Speaker 1  1:06:07  
+Thank you for everything that you've done for this industry as well. I'm an admirer, and glad that we finally got time to do this,
+
+Nico Johnson  1:06:16  
+and if you would like to learn more from Billy and his peers. Every single week, we try our best to get leaders like Billy to share what's happening inside their heads and how they were crazy enough to take the risk to build this industry that you enjoy, either as a founder, as a follower, as an aspirin, as someone aspiring to have a career in this sector, we got more than 700 episodes in our back catalog@mysandcast.com I hope that you will subscribe. But more than that, I hope you will put it to action, because listening is just the beginning. The next step is to take proactive steps. Build your business, build your career, build your tribe with us. Join this community, and I hope that you'll take a moment to thank Billy. Please email him, reach out, let him know how much it means that not only did this work, but he came here to share it with us. And last thank you for coming here to share your time with us. Grateful for our sponsors who help underwrite this activity, so that all I have to ask you to pay is attention, hope that you'll give us more of it. Show up next week for yet another founder story here on the front lines of the clean energy transition. In the meantime, remember you are what you listen to. Thanks again for showing up. Soulva warrior, it's half the battle. You.
+
+Transcribed by https://otter.ai

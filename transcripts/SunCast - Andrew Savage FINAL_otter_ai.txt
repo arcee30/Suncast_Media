@@ -1,0 +1,259 @@
+Speaker 1  0:00  
+About a third of all carbon emissions are transportation based, and the majority of those emissions are private vehicles. And so our hope is to help develop urban centers and urban environments where mobility can be completely carbon free.
+
+Nico Johnson  0:14  
+In the world of renewables, climate action, even sustainability, it is so difficult often to find your path the career that marries the work that you do with the passion for saving the planet. Over the years, I've been really impressed with folks who have been able to really thread that needle, and one such person who candidly has been incredibly hard to nail down for an interview is my friend Andrew savage. If you are unfamiliar with the work that Andrew has been engaged in, it's because he left the solar industry after a tenure at all Earth renewables here in Burlington Vermont. So I flew in to Burlington to get time with Andrew and talk about what he did after his solar career in helping co found a company I'm sure you've probably heard of, formerly known as line bike. And if you're at all familiar with how the whole decarbonization ecosystem works and E mobility fits into it, well, this is definitely an episode that you are going to want to stick around for. But if you're also curious just how someone thinks about the evolution of their career and their contribution through policy all the way to business development. I promise your time is going to be well spent. If you're new to SunCast, I just want to say, welcome in. Thank you for giving us the only non renewable resource you've got, of course, that is your time. We're going to take good care of it today. Andrew Savage has been in the renewables and climate action sector for more than a decade, and his actions speak for themselves. In Lyme alone, they've done more than 150 million total rides in 2023 alone, almost 500 or more north of 500 million rides total, helping us break our fossil fuel habit. We're gonna learn more about the remainder of the work that encompasses his role as head of sustainability at Lyme and how he found his way into E mobility. Today, if you like these kinds of conversations, you are in the right place. Hit subscribe, because twice a week we come at you with tactical, practical advice on how to split and divide the opportunities. Choose your path in climate action a career in renewables here on SunCast. Get ready to tune in to another tactical, practical conversation as we dive in with Andrew savage of line, Andrew, it's super to be here in hula. Shout out to hula for hosting us in downtown Burlington, your hometown.
+
+Speaker 1  2:48  
+Yeah, great place. And thank you for coming. Great to have you here. Thanks for taking the time and making the trip.
+
+Nico Johnson  2:53  
+Yeah, man, it has been high on my list to unfortunately, as we'll get into E scooters, which I'm an early adopter of, aren't in every town, so we aren't able to scoot around Burlington online bikes, but I'm grateful for the opportunity to just scoot over here and sit down with you at your sometimes Burlington headquarters of hula, which itself I could do a story on this place as a magnificent, uh, looking just across the way is our friend, encore renewables. There are some fantastic I was seeing, like, zero bikes. Seems like this is a hub for decarbonization in Burlington.
+
+Speaker 1  3:30  
+Yeah, it's a great place, and it's actually fostering a lot of great businesses that are doing a lot of great work. So yeah, you're right in the center of Burlington clean tech and startup environment. Yeah.
+
+Nico Johnson  3:41  
+Well, I mentioned in the intro that you guys completed a record 100 and 50 million trips in 2023 which is about five trips every second for those who do the math, and 500 million lifetime trips. So I've jumped in from the beginning for those who are unfamiliar with the name of your company. But could you just back up a minute and talk about, you know, young Andrew Savage, trying to figure out his place in the world, and the problem that you are trying to address with Lyme,
+
+Speaker 1  4:12  
+yeah, I mean, the problem that we're trying to address with Lyme is the last mile challenge with transportation in cities, and you know, they people long talked about like the last mile as being this like chasm, because people just couldn't get from, like, for example, the bus stop or the train stop to their home or to their place of work. And the hope with micro mobility is to help solve that, to find a mode, to find a mechanism to be able to bridge that gap between the long few miles to get to a destination, to those sort of more disparate locations within urban within urban environments.
+
+Nico Johnson  4:49  
+Yeah. So if it's not clear to folks yet, and maybe they're just un accustomed to the E mobility sector, introduce us to lime. The company and and how it's going to try to solve that last mile problem.
+
+Speaker 1  5:03  
+Yeah, I mean, we started in 2017 very early in 2017 so we're about seven half years into that journey, which is kind of shocking to me, because it feels like a blink of an eye. We started the company as a pedal bike company, and have quickly evolved to all e mobility because we found that riders and users want the electric assist,
+
+Nico Johnson  5:22  
+save one that I haven't seen yet. Skateboards. Yeah, that's fair. That's a good point. Believe skateboards to someone else.
+
+Speaker 1  5:29  
+Yeah, next time, next company and we essentially have now offer a fleet of E bikes and E scooters in over 280 markets around the world. And as you mentioned, five, over 500 million trips, nearly a billion, actually over a billion kilometers. Now for those who follow kilometers, I like kilometers when you can get over a billion. Yes, exactly. Yeah. It's important metric. I think it's like six or 700 million miles, if for the like, follow the miles. And so, yeah, we, you know, we operate these programs with in cities, everything from Los Angeles, Chicago and DC to Madrid, London and Tel Aviv. And that's, that's the premise of the company.
+
+Nico Johnson  6:07  
+It does feel like a blink of an eye. Frankly, 2017 is just yesterday. I can still remember living in Miami, seeing Citi Bike, and I know that was one of the early markets that you all moved into what what needed to be true, really, if you think 510, 15 years ago, why would this business have failed prior to 2017
+
+Speaker 1  6:30  
+Yeah, I think it's probably three things, but there's probably many more, but three chief things, one is the ubiquitous accessibility of iPhones, right? An iPhone is what's critical. Yeah, exactly. So you're everyone having a phone that can scan a QR code that can find a bike or scooter on the street. So one is just having the sort of technology in everyone's pocket. The second is accessibility of GPS, right? So having a GPS unit that can communicate and can communicate back with the phone, back with server that didn't exist. And then third is a strong enough lithium ion battery, or battery, it doesn't have to be lithium ion, but a battery system that can actually propel a rider for and a vehicle for 20, 3040, miles in a day, right? Enough to make a business model. So like those three things, absolutely had to exist, and without those three things, we really wouldn't have a business. Is
+
+Nico Johnson  7:23  
+there anything about the original idea for Lyme that has fundamentally shifted since 2017
+
+Speaker 1  7:31  
+honestly, the fundamental fundamentals are all still there. I think, as I mentioned earlier, like we shifted from a pedal bike to broader e mobility. We shifted from having more of a focus, or an exclusive focus on bikes, to actually having a more dominant focus on scooters. I think one thing that did come along is the advent of this, the form factor of the scooter. Yeah. And in many ways, the scooter has become sort of a gateway into micro mobility. For many people, it is seen as easy, accessible. You step right on and then many people then try the platform, and then they're like, Oh yeah, you know what? Maybe for this longer trip, I might want to take any bike because it's actually a little more comfortable and I can sit back, and I can go a little faster, a little farther. So you sort of had the evolution of mobility from both a form factor perspective as well as the adding electric electric assist behind
+
+Nico Johnson  8:21  
+it in these nascent markets like E mobility, you know, eight years ago, there's the idea of innovation takes different forms. There is, you know, innovation on form factor, innovation on product, product style and type. And then there are those who invent product, and then those who are fast followers. Where does lime sit in that, in the in the sort of the categorization of innovating around product versus fast follower implementing business strategy?
+
+Speaker 1  8:50  
+Yeah, it's actually a great question, and not one that I'm often asked. So it's, you know, it's a little harder to answer, but I think it would be a fusion of the two. I think I'd be remiss if I didn't say, you know, we didn't invent the idea of shared micro mobility, and we didn't invent the E scooter. So in many ways, we fast followed into both of those spaces, but it was really about implementation, and then it was about innovating within the space. For example, our engineering team developed a swappable battery, yeah, which has made operations more efficient, lower carbon up time is higher. All those things are critical. And if we didn't do that and do that right in a way that then also has durability of the vehicles and the batteries, we wouldn't have a business. Was mine the first to have swappable we weren't the fast first to have a solvable battery, but our team innovated in the way to do it and implement it. Well, I would say, in many ways, we're looking at ideas out there and figuring out, how can we execute on those ideas. The best
+
+Nico Johnson  9:46  
+tell me about the CO founding team. I remember there was a period where I felt like, as someone who had sort of known of you and about you during your time at all Earth and being in the solar industry, it was like, Oh, there. This guy, Andrew, who jumped to E mobility, and he's now working for a lime but you're listed as a co founder, part of the CO founding team. Talk to me about that CO founding team, how you guys found each other, and who were the early team members that really caused the sort of the lime product team to gel? Yeah,
+
+Speaker 1  10:17  
+yeah. And you're right. I mean, we got to know each other a bit through the solar industry and work on the solar industry board and everything. And in many ways, the extension from solar to E mobility made a ton of sense, because in solar, you're always talking about all, how do we electrify everything? How do we power everything with the sun and the wind, etc? So it's like was a very much inevitable, inevitable nexus there, and the way that I found the team, and then I could tell you a little bit more about the team. Sure was I had actually spent a stint we talked about this earlier in Bogota, and I was doing a ton of biking, less urban biking, but little just in the biking culture. And as I was moving west with my family, I was introduced to someone in the solar from the solar industry to Toby and Brad, who at the time were starting to think about the notion of starting line bike started working with them, talking with them. They knew I'd done some work in shared mobility, on the car sharing front car share Vermont. They knew I'd worked in government. They knew I'd worked in the solar industry, and in many ways, had the sort of background that they were going to be in need of, and frankly, lacked on the team. In addition, which was the policy Nexus, exactly policy and biz development, exactly the policy Nexus, for sure, working, I was actually the chair, co chair of the mayor. Here's transition team. So I'd worked with mayors. I'd worked with Capitol Hill, I worked in government, worked on political campaigns, and so there was a very natural extension of the work they'd done the past in politics and in clean tech, and the other the rest of the team sort of filled things out around that. We had someone on the technology side, a chief technology officer. We had someone in sort of marketing, biz dev. We had someone helping out with supply chain and manufacturing of the vehicles, and then fundraising and running the company with Toby and
+
+Nico Johnson  12:02  
+Brad. So how many comprise what you currently consider the CO founding team? That was seven or eight of us. Yeah, I love that dude. What I really love about it, that's that's frankly, different from what you see a lot in Silicon Valley culture is the openness of the early as you mentioned, the two Toby and Brad to say, no, none of this would be possible without this core team. It's not about the one idea. Ideas, you know, need they need vision, they need product. They need strategy. They need new business market opening, right, right? But I find often in companies like lime, where you have to go raise a ton of money to make it happen, right? Those early two or three folks like to call themselves the co founder, right? They like to sit in that, that sort of that Bas, yeah, no one else is in this. Yeah, yeah, exactly. And, and I really love the distributed power that you see at the in the lime team, that the even to the sense of allowing like this more open. Idea of like, hey, somebody that joined like on week one versus year one are still co founders, because without them, we couldn't make the vision work.
+
+Speaker 1  13:11  
+Yeah. I mean, as we talked about just a few minutes ago, the notion that we it was all about execution for us. And I would actually extend your statement well beyond, you know, the first weeks or months or even years like, it has been such a journey with a team that we've had and an evolving journey with the team we've had. And that execution has been so important from on the ground in certain markets, with our operations, our government team, to our engineering team doing the design of our products to expanding around the globe like it really has been about execution. And so yeah, regardless of who is on the founding team of the company, it has evolved so many different times over from there. And that's, frankly, what's important, right? And it's more important what we've created together, even for those who aren't even at the
+
+Nico Johnson  13:58  
+company anymore, yeah, and you think back, just put your HR hat on, like, think from a strategy perspective, from 2017 to 2020, which is like that period of rapid growth, yeah, pandemic, a whole other Yeah, we
+
+Speaker 1  14:12  
+grew from from zero employees to 1000 place in that period. Yeah.
+
+Nico Johnson  14:17  
+Was there any critical inflection point in terms of hiring and, and, I mean, like, even think about take, where, take this, where you wanted to go. It could be a person, it could be a division, a product. Idea, was there any inflection point where you think back and you're like, that was actually a critical hiring team or a critical hiring decision that created an arc of inflection that wasn't otherwise there. Well,
+
+Speaker 1  14:43  
+I think in part, it was when we really scaled up the company and needed the operations team to back up our programs around the country, right, and then later around the globe,
+
+Nico Johnson  14:53  
+because, because it's one, getting the programs in place, getting municipalities to say, yep, you can come here, and then it's. Deploying exactly
+
+Speaker 1  15:00  
+and running good program. And I think what we had to realize, and the inflection that I might highlight, is to be a good city partner, we needed to run a rock star operations team and operations in the market. We had to have a rock star operations team and run great operations in those markets that we served. And so what it meant was really investing in a structure where we had, for example, general managers that are responsible for their market. They're essentially running for each market, yeah, running a P, L, like, like a franchise, exactly, although we owned it, and we had best lots of franchises. Don't
+
+Nico Johnson  15:34  
+actually franchise out the franchise in, they just open. It's corporate, you know, corporate centers, so to speak, exactly.
+
+Speaker 1  15:39  
+So what it really meant was understanding that we needed to run great programs, and therefore we needed to staff great programs and and be good city partners. And that has dramatically boosted the relationship that we have with cities, the relationship we have with our riders, because dependability of our product is so important. Is it in good shape? Is it deployed where people need it. All that stuff requires an enormous operations team, and then there's actually an entire underbelly that you don't even see as a rider, and it's the app and programs behind the scenes that help us run those programs. So what is our team on the in on the operations side, looking at to know what are our hot spots where to deploy, what vehicles need to be, rebalanced. All that stuff is an entire apparatus that you never see as a rider, but is critical to running the business. Well, I
+
+Nico Johnson  16:27  
+want to ask those questions, because as a rider, I've often thought like, how does the company know this scooter was taken on this bike trail and left 10 miles out of the home zone, how do you how do you find it and recover it? How do you optimize for the redistribution, right? Like, and I think the underlying question that is like, how do you staff for the inevitable complexity of that operation? Yeah,
+
+Speaker 1  16:56  
+I mean, it's that is the critical question for how to run a good program. And we have this entire interface that helps us run the company. So in a market, you will be able to see whether vehicles are in a certain zone or what vehicles have sat idle for a certain amount of time, and thus need to be rebalanced back into sort of the hot spots that we have. So we know hot spots. We know when vehicles are sitting idle, we know when vehicles need to be charged, we know when vehicles need maintenance. We know when vehicles aren't getting a good five star review from riders. So all those things are put together and flagged for the operations team that allow them to run the business. And that is happening in over 280 locations around the globe, all at once, with everyone running those programs as best as they can so that our vehicles are available for riders. So that's really the crux of it, and it's, you know, it's a Herculean effort, but it's made possible by the technology that we've developed.
+
+Nico Johnson  17:49  
+How do you see E mobility as a key driver to decarbonization? How does lime fit into that achieving a carbon free planet? I
+
+Speaker 1  17:57  
+mean, that's so critical. And you know all of this, but you know about a third of all carbon emissions are transportation based, and the majority of those emissions are private vehicles. It's not air, air freight or air, you know, airplanes moving freight or personal aircraft, or people taking boats. You know, it is private cars that is a huge problem. And so we see that as the impact that we can have, yeah, and so our hope is to help develop urban centers and urban environments where mobility can be completely carbon free. Now, we're not carbon free yet. We're certainly emissions free as service, right? Our vehicles, our bikes, our scooters, don't emit any pollution. But what our goal is to be completely carbon free as a company, and then be part of an ecosystem within city transportation that is also fully decarbonized. Wang
+
+Nico Johnson  18:45  
+Ting, the CEO, said in the 2023 report, noting some the notable achievements I brought up in the beginning in terms of profitability and and number of rides. I think it is in particular noteworthy that lime has achieved incredible profitability, 90 minute, 90 million, and EBITDA adjusted up from the prior, sort of, I would say, guidance, but not public company yet, right? Talk about that as well. Yeah. And what he said, I thought was really interesting, because the way he enunciated the achievement, he said, We achieve these breakthroughs as a result of our vertically integrated approach across three key areas. Hardware. Chiefs talked about software enabled operations and local government relations. So as one of the early key team members and co founders of the company, you came in with your experience with with Peter Welsh, your experience on Capitol Hill. Your experience with public relations and government relations within the solar industry, I would argue that you were, sounds to me like you were the sort of Chief driver there of how policy ties back to opening new markets. With all of that in mind, I'd like to you to tell me more about the role. You serve. What exactly do you do at Lyme now as head of sustainability, and how did you navigate from the guy that came in to help set policy up and open new markets to now heading sustainability? Sure,
+
+Speaker 1  20:11  
+and maybe I'll answer the second part of the question first and follow chronologically. But you know, essentially, when I came in, my role was to help be on the political side and the policy side for the company. So how do we figure out how to get into markets when many cities either had no regulations, they didn't know what shared mobility or micro mobility was, maybe they even had their own bike share program, often failing because they were dock based, and they just were getting the ridership, and they were taking taxpayer dollars, and that was the problem we were trying to solve. And so we had to come in and work collaboratively with cities to figure out, how can we share what we're offering and how we can be a solution to the problems that they have, that last mile problem of transportation within urban environments. Yeah, you know, I did that and built the team for the first two years of the company, and I loved it. It was a direct extension, as you mentioned, from the policy and political work that I had done, but I did realize at a certain point that sustainability was going to be critical for our future as a company. And I've had a long time career passion last 20 years in sustainability generally. And what I realized was that if we weren't going to be doing sustainability Well, we weren't going to be serving our riders well, and we were going to be serving serving our cities well. The city of Paris, for example, right around 2019 had a very competitive RFP process, and 40% of the entire scoring was around sustainability. So if you're in my shoes on the policy side, I'm thinking, Okay, we're not going to win this market if we don't achieve really strong sustainability improvements, or continue to improve the company around sustainability. So what I recognized was that it really was necessary for us to begin to up level the work that we've done from survival as a startup the first two years of the company, to being a long, lasting company that could be profitable, that could be sustainable and be enduring. And we couldn't be doing one without the other. We needed profits to be able to have an enduring impact, and we needed strong sustainability to have a good enduring impact, right? So that is really the sort of nexus of that transition. And I've loved both roles. I mean, both have been incredibly fulfilling, challenging, and I think each met their time within the company. Journey, yeah. I
+
+Nico Johnson  22:25  
+want to sort of drill down on one quick thing. You said that earlier programs failed primarily because they were doc based. What does that mean? Differentiate between sort of how it used to work and how lime and others in E mobility have sort of freed the bikes, yeah,
+
+Speaker 1  22:40  
+for sure. I mean, yeah, it's funny. It's like seven years ago. The only thing you would have seen is the old programs, which meant that you were in, you were sharing bikes, and every bike had to be in a docking station and unlocked from a docking station. So essentially, you're going from a point A to a point B, and you had to figure out, all right, what point b Am I going to end this ride? Is it near the meeting that I have to go to? Is it near my house? Is it near the bus stop? Isn't it the train station? And often, sometimes they were, sometimes they weren't, and then those systems also had the challenge of, are there enough spots for me to park my bike once I get there? And if there aren't, then I've got to find the next closest station. And just that friction that you know that that rigidity of point A to point B was part of what we were trying to solve and, and what we created was essentially what people used to call is dockless stock list bikes, right? You don't remember that anymore. People don't use that. It's not even a concept, and it's a few years old now. And, and so what our system is, is that we have a locking system within the vehicles themselves, so the wheel of the scooter or bike is immobile unless you unlock it, so we don't actually have to be in a docking station. And so we have created some things that sort of mimic a docking station, like hot spots, where we encourage riders to park sometimes we give them ride credit to park there, but we've essentially freed up mobility from the rigidity of those docking stations. That was the, really, the sort of innovation that we've had to sort of work around.
+
+Nico Johnson  24:09  
+I want to know in your role as head of sustainability, what does sustainability mean? I think it's, yeah, even back to tales and six, and I'll give my MBA like term sustainability was so proselytized, right? Yeah. How do you square the sort of a strategy and agenda for sustainability? It's a broad term. I mean, that could
+
+Speaker 1  24:28  
+be an entire podcast episode, yeah? But I'll try to be, you know, I'll try to focus on what we focus on the most, which is a few areas, but primarily, most of our work is around environmental sustainability and decarbonizing the company. So that is everything from setting incredibly ambitious carbon goals, we have a science based target that's been validated by the science based targets initiative to be net zero by 2030 we've actually made incredibly good progress on that, something I'm incredibly proud of at this company that we have set in. It's just goal, and we're ahead of schedule, which is great. Now, I'm always clear that the next six years are going to be even harder than the last, you know, last, last seven, for sure, but part of it is setting a high marker for the company and then trying to achieve those goals and orienting the company around those goals. You know, we've actually
+
+Nico Johnson  25:17  
+sorry when you say science based. Can you for those who are unfamiliar with that, that jargon. What does that mean? Yeah.
+
+Speaker 1  25:22  
+I mean, essentially, it's looking at, what do we need to do to achieve a 1.5 degree Celsius Paris Accord style, decarbonization track, yeah. And so what they do is look across all industries and companies fall in those industries, and say, Look, if you're going to meet those goals, you've got to reach certain decarbonization metrics. And for Lyme, it's a couple things. One, our scope, one and two emissions being reduced by 90% by 2030 huge absolute emissions reduction. And then our most of our scope, three emissions, almost all of our scope, three emissions, a 97% intensity reduction by 2030 so we can grow the business, but we also have to cut carbon, and that's been hard to do, but it's something we have. Let's
+
+Nico Johnson  26:06  
+go through the hardest to achieve exactly, because that's down in your supply chain, exactly, uh, 97% that's aggressive. Aggressive, very aggressive. How do you get to those numbers?
+
+Speaker 1  26:14  
+You know, it's a number of things. One, it's running a much more efficient business with longer lasting vehicles.
+
+Nico Johnson  26:20  
+I guess I'm curious, how do you, as the head of sustainability and your team, arrive at the 97 number and 90%
+
+Speaker 1  26:27  
+number? Yeah, that is actually dictated by the science based targets initiative they have, like metrics. There we go. So you show your baseline, and they tell you what you've got to do to be in line with keeping carbon on this planet under control. I got
+
+Nico Johnson  26:41  
+to be honest. I've not heard the term. And I heard in another podcast interview where you, you mentioned to the person interviewing you, and you're aware of this, but I gotta, I gotta be honest. I'm not aware of the science based sort of vernacular, yeah, and and initiative. And I feel like there are some, there are assumptions that in the sustainability world, we make about what people are familiar with, right? So I appreciate you explaining that, because I've, you know, operating in predominantly solar and energy storage for the last 18 years, right? I feel like we do have a different vernacular than E mobility or electric vehicles or other, even other like, you know, air, the air miners, right? Like thinking, how folks think about how we address the overarching climate goals, where, where do, where do you get that information? There's an organization, yeah,
+
+Speaker 1  27:35  
+yeah, exactly. There's an organization that was started as, like a consortium of a number of NGOs around the globe and science based targets, you can look look it up online, essentially. Now, more than 1000 companies have signed on to this, and it's the most rigorous gold standard for carbon corporate carbon 11 setting. And it just what it does is it demands very rigorous decarbonization among companies to meet the goals of the Paris Climate Accord. And a
+
+Nico Johnson  28:00  
+few of the things that you're particularly proud of are the recyclability and the use of recyclable, recycled materials in the product. But what kinds of initiatives constitute sustainable initiatives and goals inside of lime? And I'd love it if you could touch on the business case internally that you have to the hurdles you have to jump internally to get these kinds of initiatives approved. Yeah, we
+
+Speaker 1  28:22  
+have a few fun ones that I'll share, and we have many more that we won't have time to share. But I think first and foremost is decarbonizing our operations, so filling in our operations fleet, so when you're managing our programs with vans or E trikes, making sure those are electric. You know, when we started the company, and as we scaled the company, nothing was electric. We were using what was on the street, which was, you know, 40 trans Ford transits, not the transits where you were using small vans to help manage the program. And now we have shifted nearly 70% of all of our vehicles to electric in the last several years. That's one two is thinking about Second Life of batteries. We partnered, for example, with a company in Brighton, United Kingdom, and they take battery cells that are still viable within batteries that we have to recycle because they don't have the power. They have issues around the use for E mobility, but they can actually power speakers or other charging devices. So second life of our battery cells, a third initiative that I love, we just committed to all zero emissions trucking from port to hub in North America. So we're now using trucks that take pallets of vehicles from port to our distribution center. So it's looking throughout the business at trying to cut carbon anywhere we can. And something
+
+Nico Johnson  29:38  
+else that I've heard you talk about is the use of 100% renewable energy. Obviously, there's not 100% there's not access to 100% renewable energy in every in every municipality that you've that, where you've partnered, right? How do you achieve that goal? Yeah, I glossed
+
+Speaker 1  29:52  
+right over that, and that's one of the most important ones, but it was our earliest one. Actually, our first initiative was, we're going to power all of our vehicles. Scooters, e bikes on renewable energy, and then we extended that to all of our facilities. Yeah, but you're right. There's enormous challenges in procuring renewable energy in every single market. Sometimes we don't even pay the electricity bill because the landlord covers it in the lease. So it's really hard. So what we do is we buy renewable energy within a local market from the utility anywhere we can, yeah, that's first and foremost. And then second, we're buying renewable energy certificates or guarantees of origin in Europe for the renewables that we actually can't procure directly. So it's kind of a two part strategy. Does
+
+Nico Johnson  30:32  
+that look like participating in community solar programs? Or is there like a, I imagine it's a basket of strategies. Yeah, it's a basket of strategy.
+
+Speaker 1  30:40  
+For sure, we've done a number of different things. The primary is, you know, buying it from the local utility, because it's our way of inspiring more renewables on the grid, the fastest and the most directly. Yeah. And then, you know, we believe that buying the racks or guarantees of origin can also help inspire because there's a demand, there's a market demand for more renewables.
+
+Nico Johnson  30:59  
+Do you have top of mind, like, roughly the number of kilowatt or gigawatt hours you're buying? Oh,
+
+Speaker 1  31:04  
+my goodness, I think maybe, like, over 80,000 megawatt hours from the start of the company. Not crazy for you like to wrap your head around, I
+
+Nico Johnson  31:14  
+think that's what it is. And think about the impact you're having on the solar industry, coming from all Earth, right, where you were building these trackers, and you were trying, you were working on, like, harvesting the most solar, yeah, which also had GPS units on them. Just totally, I know, and but the impact that you're able to have now of deploying solar, I think about this talk to I was ty edgarson, right, because Ty went to Chevy to help with their EV and and EVx. What is it to help with their program on V to X, and the impact that he's able to have on the deployment of renewables writ large is so much bigger working in an organization like Chevy, the same as you at line, demanding
+
+Speaker 1  31:56  
+the renewables and creating the sort of infrastructure for emoji, exactly. Yeah. I
+
+Nico Johnson  32:02  
+think it's fascinating. Back in 21 you did a company wide carbon study. What were the results of that, and how did it affect the work that the sustainability team is working on now,
+
+Speaker 1  32:12  
+yeah. I mean, the studies that we've done have instructed precisely where we focused on cutting carbon, so in our last carbon report, 2023 actually now we have shown that from 2019 to 2023 we cut carbon for our scope one and two emissions by 60% from our baseline, yeah, and then by 55% across scope three in intensity. So we've actually had incredible results. The point of doing these studies each year is you start to see where the hot spots are, and you figure out where to focus. And that. Do it internally or pay a third party. We do it with a third party to help sort of guide us through the process. Help with sort of validation of the numbers. Help test assumptions. And then we, you know, harness a big team internally to help pull up the data. Data
+
+Nico Johnson  32:57  
+is something that I want to spend, I guess, the remainder of our time on, because I think it's fascinating about how, as an electric mobility company, you have modern tools like GPS. Something that you just mentioned having been a through line through your career, is this GPS enabled device that gives you data, rich information to work with. A great example. A great example. I was gonna originally asked, like, how does that work with your municipalities? But I found an example with Tompkins County, New York, which is where Cornell University is in Ithaca. I'm gonna read some of the stuff, some of the data from their 2019 report. I couldn't find anything more recent. There probably is, but they found, looking at Lime data that was provided that the duration of the bike trips were between seven and 12 minutes, suggesting the majority of trips were for non recreational purposes. Linebacking activity in and around Cornell campus due to residences, recreational areas show clear seasonal fluctuation. I mean, I think the stuff that they pulled out shows where the most commonly used street corridors for bike share in Ithaca are and they estimated that 4300 plus line trips in 2019, pre pandemic were used for first mile and last mile connections to transit. Right? Transit right, which is cool. They're key findings that also stand out to me. People of color, students and people from lower income households have a higher tendency to be lime bike riders. So there's an equity and a social justice element to the work lime changed people's use of other modes of transportation. Most commonly reported changes were 37% people of riders walked less, to be determined if that's if that's a positive for society, but 28% drove less. Sometimes
+
+Speaker 1  34:40  
+it is if you're trying to get home for dinner, home for the kids, or get to work on time. But that's exactly
+
+Nico Johnson  34:45  
+right, and I concur 28% though, drove less often, which I think directly ties to the initial thesis of like, the biggest carbon offset of pet transportation is individual drivers, and to have to have reduced the city. Mythic is personal. Driving down by nearly 30% is itself tremendous. And then 24% took taxis or Ubers less so taking the hit on Uber I love that. Which of these are you most proud of? Like when you think about the statistics that you're getting from these cities, I mean,
+
+Speaker 1  35:15  
+all of them, and it's only, it's only your favorite baby. It's only grown from that study, from 2019 in terms of both its geographic reach as well as the numbers that we see. But I think the number that I'm most excited about as a company, the single if I had to pick one, it's that one out of every five trips around the globe is preventing a private car trip, Uber, Lyft taxi, and that has accumulated to over 150 million car trips prevented by our writers like I never thought we would have had that impact back in 2017 when we were first starting the company. Is
+
+Nico Johnson  35:46  
+there anyone that is aggregating in some way or collecting the data? So I guess I want to the question is more under the surface here, you're sharing this data with the cities. Is that a part of the program itself that they require you to share data? Yeah, sometimes
+
+Speaker 1  35:59  
+it is, and sometimes we just want to do it because it creates better programs. Like back in 2020 we shared, and even before that, we shared some data with the City of Seattle, and it showed the hot spots. It showed where people were riding. It showed where people might have been going out of their way for a safer street. Oh, wow. And so we can then go to them say, Hey, here's all this data. This can actually help you invest in new infrastructure. And we've seen that from Seattle to Milan, where they take that data and they actually create infrastructure because they have the data that they didn't have before, and it gives them real tools to make those justified investments.
+
+Nico Johnson  36:35  
+And there are a half a dozen to a dozen companies providing similar data. Is that data? Do the cities ingest that data? Is it made public? Is this a is anyone doing something to aggregate data from the E mobility companies at large to provide more guidance? Yeah,
+
+Speaker 1  36:50  
+it's a great question. I don't know of like a sort of clearing house for that data, but I'm certain that the city is combining data that we give with potentially other providers or even other modes to say, okay, as we aggregate all this data, what makes the most sense for infrastructure investments that we make,
+
+Nico Johnson  37:05  
+we've talked with a certain ability around how popular e mobility is, but folks are increasingly concerned around safety, and that safety leads to loud voices, often non e mobility riders loud voices that lead cities like San Antonio here in the US, and cities like Paris abroad to fully ban scooters in particular from downtown areas. What communication would you give to those city managers? And I'm curious, is this a sign of the times, like are Is there something particular to scooters that you guys have to navigate around. And how are you handling that when these major cities that that ought to be they're great, like San Antonio is a very easy like, I loved scooters when I was there. Can't use them anymore, right? So how do you handle that from a corporate perspective? Yeah, I
+
+Speaker 1  37:56  
+mean, fortunately, it's the opposite of a sign of the times. It's very, very, very, very rare that cities get to know band scooters. I mean, Paris was a very unique case. And in fact, just the opposite has happened since both of those cases. You've seen a proliferation of E scooters in London, in Madrid, even in France, for example. And it's because of the data, it's because of running great programs, I think Paris was a very unique political situation where I'm not Parisian, but they could better explain to you, but they had a very unique political situation that I see going just the opposite. So, you know, we've grown programs significantly. And the good news is, is that we off. We very, very frequently start a program, and then the city asks for more. So you might start with 1000 scooters and bikes, and they say, okay, increase that cap to 1500 or 2000 or in some markets, 15,000
+
+Nico Johnson  38:48  
+is there? When these city programs, is there an incentive or subsidy they provide to bring scooters? No,
+
+Speaker 1  38:53  
+unfortunately, it's just the opposite. It's that we often pay a tax or a fee to the city's license, often much more than other forms and more carbon emitting forms of transportation. Shockingly, a study just came out a couple weeks ago that captures that. Happy to share with you. I would love to link that in this show, you know, just to go back to Paris. I mean, what's interesting is, so they decide not to do scooters. They are love bikes. And we will have 15,000 bikes in the city of Paris. Scooters down, bikes up exactly. And, you know, it was a comfort factor for the city of Paris. But also, in addition to programs around the world expanding their programs e scooter and E bike alike, we actually found that scooters are slightly more safe than bikes, just shockingly, yeah, that's just the way people ride, and maybe it's the speed, but that across the board, 99.99% of our trips are done incident free, and that is the most important thing, that people are riding safe, and they're learning how to ride safely. And part that's the training that we give them, the onboarding that we give them, and hopefully the data we give to cities to make for more safe infrastructure. Vis a vis cars,
+
+Nico Johnson  39:53  
+going back to the 23 letter from the CEO on the progress that you made in 2023 i. Um, he said that 2024, would see new vehicle options. So I'd love to know what's on the horizon. I'd love to know does that is that a little teaser for perhaps getting into the EV market, and when we might see, uh, sort of more of a expansion beyond two wheels, still
+
+Speaker 1  40:18  
+two wheels, not EV, okay, we're looking at a seated option, where you sort of combine a scooter which is stand up and a bike which sits down in pedal and sort of merging the two. And our research has found that actually that mode is very popular among women, and it makes it more accessible to distance and gives more distance. And so that is our hope to be able to be able to keep expanding the options.
+
+Nico Johnson  40:42  
+So don't like the Razor scooter with the seat on it that people Yeah, you'll see
+
+Speaker 1  40:45  
+it, yeah. It's sort of a hybrid model, if you picture, yeah. Has anyone else released a model like that? There are a few, but not with this sort of deployment and operational capacity that we're going to have. So we hope that it's a resounding success. But you know, as you think about the evolution of micro mobility. And I think about this in general with, like, any startup environment, yeah. Like, if you stop and, like, close your eyes and you think about, what will 10 years from now look like? What we do is we think, okay, will there be vastly more e mobility devices, 234, wheels, small form factors? We think it's a resounding yes. And that's what we're betting the company on, and betting our innovation time on. You've
+
+Nico Johnson  41:25  
+been able to sort of thread the needle from government work to working at renewables and policy and business development now on sustainability. For those who are listening and they're trying to figure out for themselves, what are how do I get a role in climate? Are there any particular core skills or character traits that you look for when you're adding to your team? Yeah.
+
+Speaker 1  41:50  
+I mean, I definitely look for folks that have shown a passion for the work, right? I mean, and it's okay if the first part of your career doesn't demonstrate a passion, but you sort of want to see someone that has a passion for the work, and they'll be sort of, sort of mission driven, which is, you know, I think that's often a throwaway, but you it's a really important thing to find folks that want to be doing the work they're doing. They're going to bring more energy, more creativity, more passion, more energy behind it. And I think seeing sort of, you know, the level of commitment to the space is probably first and foremost, the most important thing. You know, I think also being able to be nimble, because this is an ever evolving landscape, in the clean tech space, in solar, in E mobility, you've got to be able to be able to navigate vast changes. Often talked about the solar coaster back in the day. It's not that different. Doesn't have as sexy a name in the mobility as well. Yeah, yeah. If
+
+Nico Johnson  42:44  
+you could leave every person you meet with one thing, what would it be?
+
+Speaker 1  42:49  
+Use your network? I think people often don't, in this day and age, use the people around them, whether it's figure, you know, right in front of them, or in sort of a broader social network, things have become a little too diluted, and I would say, lean on the people that are in your orbit, whether you personally know them or not. I think that's pretty critical.
+
+Nico Johnson  43:08  
+Yeah. And last but not least, what will have changed as a result of the work that you're doing?
+
+Speaker 1  43:15  
+I hope that we see urban environments totally smaller in terms of form factor of vehicles. Cars pushed out more space for housing and affordable housing, instead of large parking structures, more space for on street eateries in bike lanes because you're not parking cars all along the curbside. Like I just want to see cars sort of removed from their dominant place within the urban environment, because I just see that being a much more enjoyable city life. People will be happier, healthier, more affordable, and I think that's something that we can help
+
+Nico Johnson  43:52  
+change. I think it's something that I've enjoyed the most post pandemic is the number of parking space takeovers that restaurants have been able to maintain. They've retained these spaces where they expanded out into the street and and and the cars and the cities are the cities are saying we don't want cars downtown anymore. London's a great example, absolutely. I
+
+Speaker 1  44:10  
+mean, the pandemic nearly wiped out our business. But on the flip side, coming out of it, we're stronger, and we've seen some futures that could actually become much more vibrant within cities. Andrew,
+
+Nico Johnson  44:22  
+thank you for taking time to be with us on SunCast. I really appreciate the opportunity. Thanks
+
+Unknown Speaker  44:26  
+so much. Appreciate it. Thank you.
+
+Nico Johnson  44:28  
+Thank you for taking time to join us. I hope that you now feel a little bit more intrigued on how e mobility can change your life. If you want more advice on how to get a career in the solar industry or the climate action industry at all. Please take some time to go through our more than 700 episodes in the back catalog of SunCast. Thank you to our sponsors, who also helped make this possible, and thanks to Andrew and many others who give of their time so that you can get smarter. Thanks for showing up again. Solo warrior, it's half the battle. You.
+
+Transcribed by https://otter.ai
